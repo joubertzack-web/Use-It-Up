@@ -1,0 +1,435 @@
+# Use It Up — Polish & Acceptance Checklist
+
+**Date:** 2026-08-19  
+**Version:**  
+**Build:**  
+**Device:**  
+**Android Version:**  
+
+## Instructions
+
+Check each item against the actual running application.
+
+- `[x]` = PASS
+- `[ ]` = NOT YET CHECKED
+- `FAIL` = Record the failure in the Defect Log
+
+---
+
+# 1. First Launch & Onboarding
+
+- [ ] App immediately explains what Use It Up does
+- [ ] First action is obvious
+- [ ] Onboarding is easy to understand
+- [ ] Each onboarding step has one clear purpose
+- [ ] Pantry is explained clearly
+- [ ] Use It Up are explained clearly
+- [ ] Grocery is explained clearly
+- [ ] Recipe discovery/recommendations are explained clearly
+- [ ] User knows what to do after onboarding
+- [ ] Onboarding completion persists after app restart
+- [ ] A new user could reasonably use the app without outside explanation
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 2. Home
+
+- [ ] Purpose of Home is immediately obvious
+- [ ] Recommended recipes are understandable
+- [ ] Recommendations feel useful
+- [ ] Recipe cards are visually consistent
+- [ ] Favorite control is obvious
+- [ ] Favorite animation feels intentional
+- [ ] Scrolling feels natural
+- [ ] No unexplained dead space
+- [ ] No obvious visual clutter
+- [ ] Ads do not interfere with normal use
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 3. Discover
+
+- [ ] Search is immediately understandable
+- [ ] Recipe-name search works
+- [ ] Ingredient search works
+- [ ] Tag search works
+- [ ] Multiple search terms work correctly
+- [ ] Sort/filter controls are understandable
+- [ ] Results are readable
+- [ ] Long recipe names render correctly
+- [ ] Empty results state is understandable
+- [ ] No clipping
+- [ ] No excessive dead space
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 4. Recipe Detail — Overall Structure
+
+Test multiple real recipes.
+
+**Recipes Tested:**
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+- [ ] Header is clearly separated from recipe content
+- [ ] Hero/identity area is clearly separated
+- [ ] Prep List is its own card
+- [ ] Method is its own card
+- [ ] Action/footer area has its own purpose
+- [ ] Recipe reads as a page made of distinct cards
+- [ ] Cards do not feel like one giant container
+- [ ] Cards do not unexpectedly affect each other's spacing
+- [ ] Page-level spacing is consistent
+- [ ] No unexplained dead space
+- [ ] No sections feel unnecessarily cramped
+- [ ] Overall hierarchy is immediately understandable
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 5. Recipe Detail — Readability
+
+- [ ] Recipe title is clearly readable
+- [ ] Ingredient names are clearly readable
+- [ ] Ingredient quantities are clearly readable
+- [ ] Method instructions are clearly readable
+- [ ] Section headers are clearly readable
+- [ ] Tags are clearly readable
+- [ ] Body text does not blend into the background
+- [ ] No text disappears
+- [ ] No text is clipped
+- [ ] Long text wraps correctly
+- [ ] Text size is comfortable while cooking
+- [ ] Line spacing is comfortable while cooking
+- [ ] Dark Mode does not destroy Recipe Detail readability
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 6. Recipe Detail — Spacing
+
+- [ ] Header spacing feels intentional
+- [ ] Hero spacing feels intentional
+- [ ] Prep List spacing feels intentional
+- [ ] Ingredient rows are not excessively spread out
+- [ ] Ingredient rows are not cramped
+- [ ] Method steps are not excessively spread out
+- [ ] Method steps are not cramped
+- [ ] Card-to-card spacing is consistent
+- [ ] Short recipes do not create excessive empty space
+- [ ] Long recipes do not create unnecessary empty space
+- [ ] No large unexplained blank regions exist
+- [ ] Content remains naturally sized
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 7. Recipe Detail — Content Fidelity
+
+- [ ] Recipe title matches source
+- [ ] Ingredients match source
+- [ ] Quantities match source
+- [ ] `to taste` remains preserved where applicable
+- [ ] `pinch` remains preserved where applicable
+- [ ] `as needed` remains preserved where applicable
+- [ ] Instructions match source
+- [ ] Tags are clean
+- [ ] `_recipe` does not appear in user-facing tags
+- [ ] `_recipes` does not appear in user-facing tags
+- [ ] Provenance remains correct
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 8. Recipe Detail — Interaction
+
+- [ ] Back navigation works
+- [ ] Favorite works
+- [ ] Favorite state persists
+- [ ] Grocery action is understandable
+- [ ] Grocery action works
+- [ ] Buttons clearly communicate their purpose
+- [ ] Touch targets feel comfortable
+- [ ] Scrolling feels natural
+- [ ] Interactive feedback feels intentional
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 9. Grocery
+
+- [ ] Grocery screen purpose is immediately obvious
+- [ ] Grocery items are readable
+- [ ] Quantities are understandable
+- [ ] `Stock` clearly communicates what it does
+- [ ] `Remove` clearly communicates what it does
+- [ ] Stock moves the item to Pantry
+- [ ] Stock removes the item from Grocery
+- [ ] Stock does not create duplicates
+- [ ] Remove does not modify Pantry
+- [ ] Correct item is affected
+- [ ] Other grocery items remain unchanged
+- [ ] Controls do not require guessing
+- [ ] Empty Grocery state is understandable
+
+## Critical Stock Test
+
+**Item Tested:**
+
+**Expected Result:**
+
+**Actual Result:**
+
+- [ ] Item entered Pantry
+- [ ] Item disappeared from Grocery
+- [ ] No duplicate was created
+- [ ] Other Grocery items were unaffected
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 10. Pantry
+
+- [ ] Pantry purpose is obvious
+- [ ] Add item works
+- [ ] Edit item works
+- [ ] Remove item works
+- [ ] Quantities behave correctly
+- [ ] Qualitative pantry states behave correctly
+- [ ] Changes persist
+- [ ] Pantry affects recipe matching/recommendations
+- [ ] Empty Pantry state is understandable
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 11. Use It Up
+
+- [ ] Use It Up purpose is obvious
+- [ ] Add leftover works
+- [ ] Edit leftover works
+- [ ] Remove leftover works
+- [ ] Use It Up participate in recipe matching
+- [ ] Empty Use It Up state is understandable
+- [ ] Use It Up are visually distinct from Pantry inventory
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 12. Saved
+
+- [ ] Saved screen purpose is obvious
+- [ ] Favorited recipe appears
+- [ ] Unfavoriting behaves correctly
+- [ ] Saved state persists
+- [ ] Empty Saved state is understandable
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 13. Navigation
+
+- [ ] Home navigation works
+- [ ] Discover navigation works
+- [ ] Kitchen navigation works
+- [ ] Saved navigation works
+- [ ] Back navigation behaves naturally
+- [ ] No dead-end screens
+- [ ] Navigation labels/icons are understandable
+- [ ] Navigation does not unexpectedly lose state
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 14. Responsive Layout
+
+**Devices Tested:**
+
+- 
+- 
+- 
+
+- [ ] Phone layout works
+- [ ] Large phone layout works
+- [ ] Tablet/expanded layout works where applicable
+- [ ] No clipping
+- [ ] No excessive dead space
+- [ ] Cards remain coherent
+- [ ] Text wraps correctly
+- [ ] Navigation adapts correctly
+- [ ] Controls remain usable
+- [ ] Recipe Detail remains coherent across layouts
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 15. Accessibility
+
+- [ ] Text contrast is sufficient
+- [ ] Buttons have understandable labels
+- [ ] Icon-only controls have descriptions
+- [ ] Touch targets are comfortable
+- [ ] Important information is not communicated by color alone
+- [ ] Larger text does not destroy the layout
+- [ ] Long text remains readable
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 16. Ads & Monetization
+
+- [ ] Ads appear only where intended
+- [ ] Ads do not obscure content
+- [ ] Ads do not interfere with cooking
+- [ ] Ads do not cause accidental taps
+- [ ] Disable Advertisements works
+- [ ] Ad behavior feels acceptable
+- [ ] Monetization does not damage the primary user experience
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 17. Overall Product Feel
+
+- [ ] Use It Up feels cohesive
+- [ ] Use It Up feels like a real cooking application
+- [ ] The visual identity is consistent
+- [ ] The app feels cozy without becoming cluttered
+- [ ] Visual hierarchy is obvious
+- [ ] Actions are understandable without guessing
+- [ ] Scrolling and interactions feel intentional
+- [ ] The app does not feel technically assembled or unfinished
+- [ ] I would actually use this application to plan/cook a meal
+- [ ] A new user could use it without me explaining the product
+
+**Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 18. Complete User Journey
+
+Perform this without referring to documentation or asking Gemini for guidance.
+
+- [ ] Start as a new user
+- [ ] Complete onboarding
+- [ ] Reach Home
+- [ ] Discover a recipe
+- [ ] Open the recipe
+- [ ] Understand the ingredients
+- [ ] Understand the method
+- [ ] Identify missing ingredients
+- [ ] Add missing ingredients to Grocery
+- [ ] Open Grocery
+- [ ] Understand Stock
+- [ ] Stock an ingredient
+- [ ] Confirm it entered Pantry
+- [ ] Confirm it disappeared from Grocery
+- [ ] Return to recipe discovery
+- [ ] Confirm inventory influences recommendations
+
+**Complete Journey Result:** PASS / FAIL
+
+**Notes:**
+
+---
+
+# 19. Defect Log
+
+| ID | Screen | Severity | Defect | Evidence | Required Fix |
+|---|---|---|---|---|---|
+| 001 | | P0/P1/P2 | | | |
+| 002 | | P0/P1/P2 | | | |
+| 003 | | P0/P1/P2 | | | |
+| 004 | | P0/P1/P2 | | | |
+| 005 | | P0/P1/P2 | | | |
+| 006 | | P0/P1/P2 | | | |
+| 007 | | P0/P1/P2 | | | |
+| 008 | | P0/P1/P2 | | | |
+
+---
+
+# 20. Final Acceptance
+
+## Critical Defects
+
+- [ ] No P0 defects
+- [ ] No P1 defects
+- [ ] Only minor P2 polish remains
+- [ ] No known functional blockers
+- [ ] No known onboarding blockers
+- [ ] No known Recipe Detail blockers
+- [ ] No known Grocery blockers
+
+## Final Decision
+
+- [ ] ACCEPTED
+- [ ] ACCEPTED — MINOR POLISH REMAINING
+- [ ] TARGETED FIXES REQUIRED
+- [ ] REJECTED
+
+**Reviewer:**
+
+**Date:**
+
+**Build:**
+
+## Final Notes
+
+```text

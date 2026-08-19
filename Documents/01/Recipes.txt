@@ -1,0 +1,352 @@
+USE IT UP — MVP 300-RECIPE ACQUISITION LIST
+SOURCE A — WIKIBOOKS COOKBOOK
+
+100 recipes
+
+Wikibooks is useful because it already has structured recipe pages and substantial coverage of BBQ, American, Southern, international, etc. Its barbecue collection alone includes dozens of actual recipes.
+
+Chicken / Poultry
+Chicken and Dumplings
+Chicken à la King
+Chicken Cacciatore
+Chicken Curry
+Chicken Tikka
+Chicken Tikka Masala
+Chicken Paprikash
+Chicken Fried Rice
+Coconut Chicken
+Hainanese Chicken Rice
+Locrio
+Arroz con Pollo
+Adobo Chicken
+Apricot Chicken Salad
+Chicken Pot Pie
+Chicken Tetrazzini
+Chicken Soup with Dumplings
+Chicken Soup with Rice
+Chicken Rice Salad
+Chicken and Pasta Alfredo
+Cheesy Chicken Pasta
+Chicken Barbecue Sauce
+Hickory BBQ Chicken
+Backyard BBQ Chicken
+North Carolina Style BBQ Chicken
+Beef
+Beef Stew
+Beef and Barley Stew
+Beef Stroganoff
+Beef Fajitas
+Beef Burgers
+Beef Burgers with Chipotle Mayo
+Beef and Mushroom Burger
+Sloppy Joes
+Taco Meat
+Tacos
+Taco Casserole
+Texas Easy Chili
+Bolognese Sauce
+Traditional Lasagne
+Skillet Lasagna
+Spaghetti Bake
+Spaghetti Pie
+Spaghetti with Bolognese Meat Sauce
+Meatloaf
+Barbecue Meatloaf
+Tater Tot Casserole
+Six Layer Casserole
+Chicken Fried Steak
+Steak Sandwiches
+Steak au Poivre
+Pork / BBQ
+Baby Back Ribs
+Backyard Barbecue Ribs
+Barbecue Ribs
+Barbecued Spare Ribs
+BBQ Pork Fried Rice
+Char Siu
+Chipotle BBQ Ribs
+Dry Rub Barbecue Ribs
+Eastern North Carolina Barbecued Pig
+Ginger Peach Glazed BBQ Ribs
+Hickory BBQ Pork Loin
+Maple Barbecue Baby Back Ribs
+Maple-Glazed BBQ Ribs
+Memphis-Style BBQ Ribs
+Mexican Ribs
+North Carolina-Style BBQ Ribs
+Pulled Pork Sandwiches
+Southern Barbecue Ribs
+Texas Style Barbecue Ribs
+Pork Pot Pie
+Pork Tenderloin
+Roast Pork
+Roast Pork Loin with Gravy
+Stuffed Pork Roast
+Sweet and Sour Pork
+Southern / American / Comfort
+Southern Cornbread
+Biscuits and Gravy
+Baking Powder Biscuits
+Country Fried Chicken
+Country Roast Chicken
+Southern Style Greens
+Hoppin John
+Dirty Rice
+Jambalaya
+Chicken Bog
+New Mexico Chili Verde
+Pork Burritos with Green Pepper Sauce
+Texas Brisket Sandwiches
+Smokehouse Burgers
+Midwestern Chicken Wings
+International / Variety
+Bulgogi
+Bibimbap
+Tonkatsu
+Gyudon
+Khao Pad Gai
+Biryani
+Risotto
+Risotto ai Funghi
+Boeuf Bourguignon
+Nyama Choma
+
+The Wikibooks BBQ collection specifically includes recipes such as Baby Back Ribs, Backyard BBQ Chicken, Barbecue Beef Brisket Sandwiches, BBQ Pork Fried Rice, Hickory BBQ Chicken, Memphis-Style BBQ Ribs, Pulled Pork Sandwiches, Southern Barbecue Ribs, and Texas Style Barbecue Ribs, making it particularly useful for the Southern/BBQ side of the MVP.
+
+SOURCE B — LIBRARY OF CONGRESS
+100 recipes
+
+For this block, I selected recipes from The Suffrage Cook Book (1915), which is held by the Library of Congress and is identified by LOC as part of its General Collections. LOC's community-cookbook guide also lists it as a 1915 cookbook.
+
+The actual digitized text provides a very large index, so these aren't invented recipe names. They are drawn from the book's recipe index.
+
+Soups / Meat / Poultry
+Asparagus Soup
+Spinach Soup
+Crab Gumbo
+Tomato Soup
+Vegetable Soup
+Chestnut Soup
+Peanut Butter Broth
+Peanut Soup
+French Oyster Soup
+Mock Oyster Soup
+Split Pea Soup
+Black Bean Soup
+Carrot Soup
+Veal Soup
+Boiled White Fish
+Virginia Fried Oyster
+Creamed Lobster
+Salmon Croquettes
+Royal Salt Mackerel
+Shrimp Wriggle
+Baked Ham
+Chop Suey
+Veal Kidney Stew
+Daube
+Roast Duck
+Veal Loaf
+Blanquette of Veal
+Risotti a la Milanaise
+Liver Dumplings
+Belgian Hare
+Pepper Pot
+Delicious Mexican Dish
+Hungarian Goulash
+Stewed Chicken
+Chicken Pot Pie
+Giblets and Rice
+Savory Lamb Stew
+Squab Casserole
+Cheap Cuts of Beefsteak
+Chicken Croquettes
+Liver a la Creole
+Pecan Nut Loaf
+Nut Hash
+Nut Turkey
+Nut Scrapple
+Nut Roast
+Oatmeal Nut Loaf
+Vegetables / Rice / Pasta
+Cream Potatoes
+French Fried Potatoes
+Potatoes Au Gratin
+Pittsburgh Potatoes
+Sweet Potato Souffle
+Potatoes a la Lyonnaise
+Stuffed Potatoes
+Potato Dumpling
+Potato Puffers
+Stuffed Tomatoes
+Baked Tomatoes
+Green String Beans
+Fresh Beans
+Barbouillade
+Boiled Rice
+Spinach
+Spaghetti
+Baked Beans
+Creamed Mushrooms
+Macaroni a la Italienne
+Macaroni Dressing
+Rice with Cheese
+Rice with Nuts
+Carrot Croquettes
+Potato Balls
+Vegetable Medley, Baked
+Savories / Bread / Baking
+Tomato Toast
+Ham Toast
+Cheese Savories
+Sardine Savories
+Oyster Savories
+Rice and Tomato Savory
+Stuffed Celery
+Fine Bread
+Excellent Nut Bread
+Virginia Butter Bread
+Bran Bread
+Polenta — Corn Meal
+Corn Bread
+Nut Bread
+Brown Bread
+Egg Bread
+Quick Waffles
+Dumplings That Never Fall
+French Rolls
+Drop Muffins
+Soft Gingerbread
+Sally Lunn
+Griddle Cakes
+Mocha Tart
+Nut Cake
+Christmas Cakes
+Cocoanut Tarts
+
+The LOC index continues well beyond these 100 entries into cakes, pies, puddings, sandwiches, salads, sauces, eggs, desserts, preserves, and beverages.
+
+SOURCE C — MIXED OPEN / PUBLIC-DOMAIN SOURCES
+100 recipes
+
+For the third 100, I'm deliberately diversifying the corpus instead of taking another 100 from the same book.
+
+The major sources here are:
+
+Project Gutenberg
+Internet Archive public-domain scans
+Wikimedia Commons public-domain cookbook scans
+
+Project Gutenberg's The A B C of Cooking is explicitly a public-domain cookbook and provides a particularly useful set of straightforward American camp/home recipes.
+
+The Boston Cooking-School Cook Book is another large public-domain-era source available through Project Gutenberg, with chapters covering beef, pork, poultry, vegetables, salads, entrées, desserts, pastry, sandwiches, etc.
+
+Wikimedia Commons also hosts public-domain cookbook scans from the Internet Archive, including The White House Cook Book, The Complete Cook Book, The Standard Book of Recipes, The Original Buckeye Cook Book, The Rural Cook Book, and others.
+
+Project Gutenberg — The A B C of Cooking
+Coffee
+Tea
+Cocoa
+Oatmeal
+Corn Meal
+Hominy
+Macaroni
+Macaroni and Cheese
+Fried Potatoes and Onions
+Scrambled Eggs
+Fried Eggs and Bacon
+Boiled Eggs
+Baking Powder Biscuit
+Muffins
+Fried Cracker or Hard Bread
+Fried Rice
+Rice Griddle Cakes
+Fried Corn Meal Mush
+Flap Jacks
+Hoe Cake
+Creamed Cod Fish
+Baked Canned Salmon
+Fried Fish
+Meat Stew
+Canned Corned Beef Hash
+Beef Steak and Onions
+Apple Sauce
+Prunes
+Boiled Fresh Potatoes
+Boiled Fresh String Beans
+Boiled Fresh Sweet Corn
+Boiled Fresh Peas
+Cooked Canned Tomatoes
+Cooked Canned Corn
+Rice Pudding
+Peach Pie
+Pastry
+Fudge
+
+The source's actual contents include these recipes and explicitly covers simple camp/boat/home cooking, making it useful for Use It Up' "what can I make with what I have?" model.
+
+Project Gutenberg — Boston Cooking-School Cook Book
+Boston Brown Bread
+Parker House Rolls
+Salad Rolls
+Clover Leaf Biscuit
+Sweet French Rolls
+Swedish Tea Ring
+Coffee Cake
+Popovers
+Waffles
+Strawberry Shortcake
+Plain Omelet
+Hollenden Halibut
+Stuffed Haddock
+Planked Haddock
+Oyster Cocktail
+Clams Union League
+Oysters à la Ballard
+Lobster Cocktail
+Beefsteak à la Maribeau
+Crown of Lamb
+Sweetbreads à la Napoli
+Chicken Broiled and Garnished
+Roast Turkey
+Stuffed Eggplant
+Purée of Spinach
+Stuffed Peppers
+O'Brien Potatoes
+Potato Croquettes
+Cucumber Salad
+Asparagus Salad
+Egg Salad
+Pear Salad
+Mexican Jelly
+Lobster Salad
+Russian Cutlets
+Dresden Patties
+Devilled Crabs
+Pan Broiled Lamb Chops
+Capon in Aspic
+Harvard Pudding
+Charlotte Russe
+Orange Trifle
+Vanilla Ice Cream
+Bombe Glacée
+English Meat Pie
+Cheese Straws
+Cocoanut Tea Cakes
+Lemon Tartlets
+Rich Cookies
+Chocolate Cakes
+Bonbons
+Cream Mints
+Candied Orange Peel
+Bread and Butter Folds
+Lobster Canapé
+Canapé Martha
+Canned Fruits
+Boston Brown Bread
+Macaroni and Cheese
+Beefsteak
+Chicken Broiled and Garnished
+Stuffed Peppers
+
+The Boston book itself describes the 1910 revision as containing 125 new recipes and has extensive sections covering beef, pork, poultry/game, vegetables, salads, entrées, pies, cakes, sandwiches, and chafing-dish recipes.

@@ -1,0 +1,2402 @@
+[
+    {
+        "selection_number": "001",
+        "source_id": "recipes/recipe_03_099.html",
+        "name": "Chicken \u00e0 la King",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_%C3%A0_la_King",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "002",
+        "source_id": "recipes/recipe_03_061.html",
+        "name": "Chicken Cacciatore",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Cacciatore",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "003",
+        "source_id": "recipes/recipe_03_063.html",
+        "name": "Chicken Curry",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Curry",
+        "category": "/wiki/Category:Curry_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "004",
+        "source_id": "recipes/recipe_03_094.html",
+        "name": "Chicken Tikka Masala",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tikka_Masala",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "005",
+        "source_id": "recipes/recipe_03_075.html",
+        "name": "Chicken Paprikash",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Paprikash",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "006",
+        "source_id": "recipes/recipe_09_016.html",
+        "name": "Khao Pad Gai (Thai Chicken Fried Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Khao_Pad_Gai_(Thai_Chicken_Fried_Rice)",
+        "category": "/wiki/Category:Thai_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "007",
+        "source_id": "recipes/recipe_04_036.html",
+        "name": "Coconut Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "008",
+        "source_id": "recipes/recipe_09_164.html",
+        "name": "Locrio (Dominican Chicken and Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Locrio_(Dominican_Chicken_and_Rice)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "009",
+        "source_id": "recipes/recipe_00_133.html",
+        "name": "Arroz con Pollo (Rice and Chicken)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Pollo_(Rice_and_Chicken)",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "010",
+        "source_id": "recipes/recipe_00_124.html",
+        "name": "Apricot Chicken Salad",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Apricot_Chicken_Salad",
+        "category": "/wiki/Category:Salad_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "011",
+        "source_id": "recipes/recipe_17_047.html",
+        "name": "Surinamese Chicken Pot Pie (Pastei)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Surinamese_Chicken_Pot_Pie_(Pastei)",
+        "category": "/wiki/Category:Pie_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "012",
+        "source_id": "recipes/recipe_03_092.html",
+        "name": "Chicken Tetrazzini",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tetrazzini",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "013",
+        "source_id": "recipes/recipe_03_088.html",
+        "name": "Chicken Soup with Dumplings",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Soup_with_Dumplings",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "014",
+        "source_id": "recipes/recipe_03_089.html",
+        "name": "Chicken Soup with Rice and Potatoes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Soup_with_Rice_and_Potatoes",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "015",
+        "source_id": "recipes/recipe_03_082.html",
+        "name": "Chicken Rice Salad",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Rice_Salad",
+        "category": "/wiki/Category:Salad_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "016",
+        "source_id": "recipes/recipe_03_050.html",
+        "name": "Chicken and Pasta Alfredo",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_and_Pasta_Alfredo",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "017",
+        "source_id": "recipes/recipe_03_027.html",
+        "name": "Cheesy Chicken Pasta",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Cheesy_Chicken_Pasta",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "018",
+        "source_id": "recipes/recipe_03_053.html",
+        "name": "Chicken Barbecue Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Barbecue_Sauce",
+        "category": "/wiki/Category:Sauce_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "019",
+        "source_id": "recipes/recipe_07_158.html",
+        "name": "Hickory BBQ Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Hickory_BBQ_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "020",
+        "source_id": "recipes/recipe_00_179.html",
+        "name": "Backyard BBQ Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Backyard_BBQ_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "021",
+        "source_id": "recipes/recipe_12_030.html",
+        "name": "North Carolina Style BBQ Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:North_Carolina_Style_BBQ_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "022",
+        "source_id": "recipes/recipe_16_020.html",
+        "name": "Smore (Eurasian Beef Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Smore_(Eurasian_Beef_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "023",
+        "source_id": "recipes/recipe_01_099.html",
+        "name": "Beef and Barley Stew",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_and_Barley_Stew",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "024",
+        "source_id": "recipes/recipe_00_004.html",
+        "name": "20-Minute Beef Stroganoff",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:20-Minute_Beef_Stroganoff",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "025",
+        "source_id": "recipes/recipe_01_110.html",
+        "name": "Beef Fajitas",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_Fajitas",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "026",
+        "source_id": "recipes/recipe_01_104.html",
+        "name": "Beef Burgers with Chipotle Mayo",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_Burgers_with_Chipotle_Mayo",
+        "category": "/wiki/Category:Hamburger_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "027",
+        "source_id": "recipes/recipe_01_102.html",
+        "name": "Beef and Mushroom Burger",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_and_Mushroom_Burger",
+        "category": "/wiki/Category:Sandwich_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "028",
+        "source_id": "recipes/recipe_15_199.html",
+        "name": "Sloppy Joes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sloppy_Joes",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "029",
+        "source_id": "recipes/recipe_17_109.html",
+        "name": "Taco Meat",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Taco_Meat",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "030",
+        "source_id": "recipes/recipe_17_110.html",
+        "name": "Taco Salad",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Taco_Salad",
+        "category": "/wiki/Category:Salad_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "031",
+        "source_id": "recipes/recipe_17_108.html",
+        "name": "Taco Casserole",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Taco_Casserole",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "032",
+        "source_id": "recipes/recipe_17_166.html",
+        "name": "Texas Easy Chili",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Texas_Easy_Chili",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "033",
+        "source_id": "recipes/recipe_18_160.html",
+        "name": "Venison Bolognese Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Venison_Bolognese_Sauce",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "034",
+        "source_id": "recipes/recipe_18_058.html",
+        "name": "Traditional Lasagne",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "035",
+        "source_id": "recipes/recipe_15_197.html",
+        "name": "Skillet Lasagna",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Skillet_Lasagna",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "036",
+        "source_id": "recipes/recipe_16_082.html",
+        "name": "Spaghetti Bake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spaghetti_Bake",
+        "category": "/wiki/Category:Casserole_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "037",
+        "source_id": "recipes/recipe_16_083.html",
+        "name": "Spaghetti Pie",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spaghetti_Pie",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "038",
+        "source_id": "recipes/recipe_16_085.html",
+        "name": "Spaghetti with Bolognese Meat Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spaghetti_with_Bolognese_Meat_Sauce",
+        "category": "/wiki/Category:Italian_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "039",
+        "source_id": "recipes/recipe_10_094.html",
+        "name": "Meatloaf Dinner",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Meatloaf_Dinner",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "040",
+        "source_id": "recipes/recipe_01_054.html",
+        "name": "Barbecue Meatloaf",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Barbecue_Meatloaf",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "041",
+        "source_id": "recipes/recipe_17_143.html",
+        "name": "Tater Tot Casserole",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tater_Tot_Casserole",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "042",
+        "source_id": "recipes/recipe_15_194.html",
+        "name": "Six Layer Casserole",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Six_Layer_Casserole",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "043",
+        "source_id": "recipes/recipe_17_168.html",
+        "name": "Texas Style Chicken Fried Steak",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Texas_Style_Chicken_Fried_Steak",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "044",
+        "source_id": "recipes/recipe_16_165.html",
+        "name": "Steak Sandwiches",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Steak_Sandwiches",
+        "category": "/wiki/Category:Sandwich_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "045",
+        "source_id": "recipes/recipe_16_161.html",
+        "name": "Steak au Poivre (Pepper Steak)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Steak_au_Poivre_(Pepper_Steak)",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "046",
+        "source_id": "recipes/recipe_00_176.html",
+        "name": "Baby Back Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Baby_Back_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "047",
+        "source_id": "recipes/recipe_00_178.html",
+        "name": "Backyard Barbecue Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Backyard_Barbecue_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "048",
+        "source_id": "recipes/recipe_17_167.html",
+        "name": "Texas Style Barbecue Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Texas_Style_Barbecue_Ribs",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "049",
+        "source_id": "recipes/recipe_01_064.html",
+        "name": "Barbecued Spare Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Barbecued_Spare_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "050",
+        "source_id": "recipes/recipe_01_086.html",
+        "name": "BBQ Pork Fried Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:BBQ_Pork_Fried_Rice",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "051",
+        "source_id": "recipes/recipe_02_197.html",
+        "name": "Char Siu (Chinese BBQ pork)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Char_Siu_(Chinese_BBQ_pork)",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "052",
+        "source_id": "recipes/recipe_03_124.html",
+        "name": "Chipotle BBQ Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chipotle_BBQ_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "053",
+        "source_id": "recipes/recipe_05_064.html",
+        "name": "Dry Rub Barbecue Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Dry_Rub_Barbecue_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "054",
+        "source_id": "recipes/recipe_05_087.html",
+        "name": "Eastern North Carolina Barbecued Pig",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Eastern_North_Carolina_Barbecued_Pig",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "055",
+        "source_id": "recipes/recipe_07_002.html",
+        "name": "Ginger Peach Glazed BBQ Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ginger_Peach_Glazed_BBQ_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "056",
+        "source_id": "recipes/recipe_07_160.html",
+        "name": "Hickory BBQ Pork Loin",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Hickory_BBQ_Pork_Loin",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "057",
+        "source_id": "recipes/recipe_10_033.html",
+        "name": "Maple Barbecue Baby Back Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Maple_Barbecue_Baby_Back_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "058",
+        "source_id": "recipes/recipe_10_042.html",
+        "name": "Maple-Glazed BBQ Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Maple-Glazed_BBQ_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "059",
+        "source_id": "recipes/recipe_10_104.html",
+        "name": "Memphis-Style BBQ Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Memphis-Style_BBQ_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "060",
+        "source_id": "recipes/recipe_10_123.html",
+        "name": "Mexican Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mexican_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "061",
+        "source_id": "recipes/recipe_12_031.html",
+        "name": "North Carolina-Style BBQ Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:North_Carolina-Style_BBQ_Ribs",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "062",
+        "source_id": "recipes/recipe_14_019.html",
+        "name": "Pulled Pork Sandwiches",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pulled_Pork_Sandwiches",
+        "category": "/wiki/Category:Sandwich_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "063",
+        "source_id": "recipes/recipe_16_059.html",
+        "name": "Southern Barbecue Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Southern_Barbecue_Ribs",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "064",
+        "source_id": "recipes/recipe_13_135.html",
+        "name": "Pork Pot Pie",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pork_Pot_Pie",
+        "category": "/wiki/Category:Pastry_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "065",
+        "source_id": "recipes/recipe_13_139.html",
+        "name": "Pork Tenderloin with Asparagus and Prosciutto",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pork_Tenderloin_with_Asparagus_and_Prosciutto",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "066",
+        "source_id": "recipes/recipe_14_159.html",
+        "name": "Roast Pork Loin with Gravy",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Roast_Pork_Loin_with_Gravy",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "067",
+        "source_id": "recipes/recipe_17_027.html",
+        "name": "Stuffed Pork Roast",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Stuffed_Pork_Roast",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "068",
+        "source_id": "recipes/recipe_17_056.html",
+        "name": "Sweet and Sour Pork Loin",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sweet_and_Sour_Pork_Loin",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "069",
+        "source_id": "recipes/recipe_16_061.html",
+        "name": "Southern Cornbread",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Southern_Cornbread",
+        "category": "/wiki/Category:Bread_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "070",
+        "source_id": "recipes/recipe_01_157.html",
+        "name": "Biscuits and Gravy",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Biscuits_and_Gravy",
+        "category": "/wiki/Category:Breakfast_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "071",
+        "source_id": "recipes/recipe_04_106.html",
+        "name": "Country Fried Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Country_Fried_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "072",
+        "source_id": "recipes/recipe_04_107.html",
+        "name": "Country Roast Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Country_Roast_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "073",
+        "source_id": "recipes/recipe_16_063.html",
+        "name": "Southern Style Greens",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Southern_Style_Greens",
+        "category": "/wiki/Category:Vegetable_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "074",
+        "source_id": "recipes/recipe_08_020.html",
+        "name": "Hoppin John",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Hoppin_John",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "075",
+        "source_id": "recipes/recipe_05_037.html",
+        "name": "Dirty Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Dirty_Rice",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "076",
+        "source_id": "recipes/recipe_08_158.html",
+        "name": "Jambalaya II",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Jambalaya_II",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "077",
+        "source_id": "recipes/recipe_03_056.html",
+        "name": "Chicken Bog I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Bog_I",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "078",
+        "source_id": "recipes/recipe_11_064.html",
+        "name": "New Mexico Chili Verde",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:New_Mexico_Chili_Verde",
+        "category": "/wiki/Category:Chili_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "079",
+        "source_id": "recipes/recipe_13_131.html",
+        "name": "Pork Burritos with Green Pepper Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pork_Burritos_with_Green_Pepper_Sauce",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "080",
+        "source_id": "recipes/recipe_17_165.html",
+        "name": "Texas Brisket Sandwiches",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Texas_Brisket_Sandwiches",
+        "category": "/wiki/Category:Sandwich_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "081",
+        "source_id": "recipes/recipe_16_012.html",
+        "name": "Smokehouse Burgers",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Smokehouse_Burgers",
+        "category": "/wiki/Category:Hamburger_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "082",
+        "source_id": "recipes/recipe_10_148.html",
+        "name": "Midwestern Chicken Wings",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Midwestern_Chicken_Wings",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "083",
+        "source_id": "recipes/recipe_02_075.html",
+        "name": "Bulgogi",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Bulgogi",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "084",
+        "source_id": "recipes/recipe_01_147.html",
+        "name": "Bibimbap",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Bibimbap",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "085",
+        "source_id": "recipes/recipe_18_041.html",
+        "name": "Tonkatsu",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tonkatsu",
+        "category": "/wiki/Category:Japanese_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "086",
+        "source_id": "recipes/recipe_07_101.html",
+        "name": "Gyudon (Japanese Beef and Rice Bowl)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gyudon_(Japanese_Beef_and_Rice_Bowl)",
+        "category": "/wiki/Category:Japanese_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "087",
+        "source_id": "recipes/recipe_17_179.html",
+        "name": "Thalassery Biryani",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Thalassery_Biryani",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "088",
+        "source_id": "recipes/recipe_14_146.html",
+        "name": "Risotto alla Milanese",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Risotto_alla_Milanese",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "089",
+        "source_id": "recipes/recipe_14_145.html",
+        "name": "Risotto ai Funghi",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Risotto_ai_Funghi",
+        "category": "/wiki/Category:Risotto_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "090",
+        "source_id": "recipes/recipe_12_045.html",
+        "name": "Nyama Choma (Tanzanian Barbecue)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nyama_Choma_(Tanzanian_Barbecue)",
+        "category": "/wiki/Category:Tanzanian_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "091",
+        "source_id": "recipes/recipe_00_147.html",
+        "name": "Asparagus Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Asparagus_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "092",
+        "source_id": "recipes/recipe_05_110.html",
+        "name": "Efo Amunututu (Nigerian Malabar Spinach Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Efo_Amunututu_(Nigerian_Malabar_Spinach_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "093",
+        "source_id": "recipes/recipe_14_081.html",
+        "name": "Rasam (Tamarind and Tomato Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rasam_(Tamarind_and_Tomato_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "094",
+        "source_id": "recipes/recipe_15_063.html",
+        "name": "Sancocho (Dominican Meat and Vegetable Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sancocho_(Dominican_Meat_and_Vegetable_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "095",
+        "source_id": "recipes/recipe_05_174.html",
+        "name": "Erwtensoep (Split Pea Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Erwtensoep_(Split_Pea_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "096",
+        "source_id": "recipes/recipe_01_169.html",
+        "name": "Black Bean Soup with Tomato-Tomatillo Salsa",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Black_Bean_Soup_with_Tomato-Tomatillo_Salsa",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "097",
+        "source_id": "recipes/recipe_12_150.html",
+        "name": "Pan-fried Beef Steak",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pan-fried_Beef_Steak",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "098",
+        "source_id": "recipes/recipe_00_082.html",
+        "name": "American Potato Salad I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:American_Potato_Salad_I",
+        "category": "/wiki/Category:Salad_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "099",
+        "source_id": "recipes/recipe_09_186.html",
+        "name": "Macaroni and Cheese (Baked)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Macaroni_and_Cheese_(Baked)",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "100",
+        "source_id": "recipes/recipe_06_081.html",
+        "name": "Fried Chicken and Fried Potatoes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Fried_Chicken_and_Fried_Potatoes",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "101",
+        "source_id": "recipes/recipe_06_023.html",
+        "name": "Firfir (Ethiopian Spicy Scrambled Eggs with Injera)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Firfir_(Ethiopian_Spicy_Scrambled_Eggs_with_Injera)",
+        "category": "/wiki/Category:Breakfast_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "102",
+        "source_id": "recipes/recipe_03_114.html",
+        "name": "Chili Cornbread Casserole",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chili_Cornbread_Casserole",
+        "category": "/wiki/Category:Casserole_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "103",
+        "source_id": "recipes/recipe_00_122.html",
+        "name": "Applesauce Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Applesauce_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "104",
+        "source_id": "recipes/recipe_08_128.html",
+        "name": "Italian Rice Pudding",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Italian_Rice_Pudding",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "105",
+        "source_id": "recipes/recipe_13_011.html",
+        "name": "Peach Pie",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Peach_Pie",
+        "category": "/wiki/Category:Pie_and_tart_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "106",
+        "source_id": "recipes/recipe_00_156.html",
+        "name": "Atomic Fudge Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Atomic_Fudge_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "107",
+        "source_id": "recipes/recipe_14_150.html",
+        "name": "Roast Beef",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Roast_Beef",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "108",
+        "source_id": "recipes/recipe_13_199.html",
+        "name": "Prekmurska Gibanica (Slovenian Layered Strudel Cake)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Prekmurska_Gibanica_(Slovenian_Layered_Strudel_Cake)",
+        "category": "/wiki/Category:Pastry_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "109",
+        "source_id": "recipes/recipe_10_106.html",
+        "name": "Menudo (Mexican Tripe and Hominy Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Menudo_(Mexican_Tripe_and_Hominy_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "110",
+        "source_id": "recipes/recipe_12_185.html",
+        "name": "Pasta Casserole (Pastitsio)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pasta_Casserole_(Pastitsio)",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "111",
+        "source_id": "recipes/recipe_01_171.html",
+        "name": "Black Forest Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Black_Forest_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "112",
+        "source_id": "recipes/recipe_09_087.html",
+        "name": "Lasagne with Red and White Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lasagne_with_Red_and_White_Sauce",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "113",
+        "source_id": "recipes/recipe_10_055.html",
+        "name": "Marzipan Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Marzipan_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "114",
+        "source_id": "recipes/recipe_04_040.html",
+        "name": "Coconut Cream Filled Cake with Meringue (Bienmesabe)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Coconut_Cream_Filled_Cake_with_Meringue_(Bienmesabe)",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "115",
+        "source_id": "recipes/recipe_06_069.html",
+        "name": "Fresh Egg Pasta (Pasta Fresca All'uovo)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Fresh_Egg_Pasta_(Pasta_Fresca_All%27uovo)",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "116",
+        "source_id": "recipes/recipe_11_102.html",
+        "name": "Nigerian Chicken Suya Pizza",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Chicken_Suya_Pizza",
+        "category": "/wiki/Category:Pizza_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "117",
+        "source_id": "recipes/recipe_05_112.html",
+        "name": "Efo Riro (Nigerian Amaranth Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Efo_Riro_(Nigerian_Amaranth_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "118",
+        "source_id": "recipes/recipe_15_043.html",
+        "name": "Salmon with Rice and Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Salmon_with_Rice_and_Sauce",
+        "category": "/wiki/Category:Salmon_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "119",
+        "source_id": "recipes/recipe_05_045.html",
+        "name": "Doro Dabo (Ethiopian Chicken with Spiced Bread)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Doro_Dabo_(Ethiopian_Chicken_with_Spiced_Bread)",
+        "category": "/wiki/Category:Ethiopian_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "120",
+        "source_id": "recipes/recipe_18_131.html",
+        "name": "Valentine's Day Chocolate Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Valentine%27s_Day_Chocolate_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "121",
+        "source_id": "recipes/recipe_03_095.html",
+        "name": "Chicken Vindaloo",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Vindaloo",
+        "category": "/wiki/Category:Indian_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "122",
+        "source_id": "recipes/recipe_11_021.html",
+        "name": "Murgh Musallam (Indian Stewed Spiced Chicken)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Murgh_Musallam_(Indian_Stewed_Spiced_Chicken)",
+        "category": "/wiki/Category:Curry_recipes",
+        "rationale": "Target match"
+    },
+    {
+        "selection_number": "123",
+        "source_id": "recipes/recipe_14_166.html",
+        "name": "Roasted Chicken Nachos With Green Chili-Cheese Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Roasted_Chicken_Nachos_With_Green_Chili-Cheese_Sauce",
+        "category": "/wiki/Category:Tex-Mex_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "124",
+        "source_id": "recipes/recipe_05_173.html",
+        "name": "Eru And Water Fufu",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Eru_And_Water_Fufu",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "125",
+        "source_id": "recipes/recipe_11_100.html",
+        "name": "Nigerian Chicken Pie",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Chicken_Pie",
+        "category": "/wiki/Category:Pie_and_tart_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "126",
+        "source_id": "recipes/recipe_16_114.html",
+        "name": "Spicy Chicken Cutlets",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spicy_Chicken_Cutlets",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "127",
+        "source_id": "recipes/recipe_18_153.html",
+        "name": "Vegetable Stew and Dumplings",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Vegetable_Stew_and_Dumplings",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "128",
+        "source_id": "recipes/recipe_02_141.html",
+        "name": "Cantonese Crispy Fried Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Cantonese_Crispy_Fried_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "129",
+        "source_id": "recipes/recipe_14_075.html",
+        "name": "Rainbow Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rainbow_Cake",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "130",
+        "source_id": "recipes/recipe_19_026.html",
+        "name": "Wonton Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Wonton_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "131",
+        "source_id": "recipes/recipe_00_132.html",
+        "name": "Arroz con Maiz (Rice with Corn)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Maiz_(Rice_with_Corn)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "132",
+        "source_id": "recipes/recipe_00_134.html",
+        "name": "Arroz Negro (Valencian Squid Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arroz_Negro_(Valencian_Squid_Rice)",
+        "category": "/wiki/Category:Spanish_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "133",
+        "source_id": "recipes/recipe_03_049.html",
+        "name": "Chicken and Corn Empanadas",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_and_Corn_Empanadas",
+        "category": "/wiki/Category:Pastry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "134",
+        "source_id": "recipes/recipe_03_175.html",
+        "name": "Chocolate Mousse Cake (Vegan)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chocolate_Mousse_Cake_(Vegan)",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "135",
+        "source_id": "recipes/recipe_04_103.html",
+        "name": "Coronet Cupcakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Coronet_Cupcakes",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "136",
+        "source_id": "recipes/recipe_01_146.html",
+        "name": "Bhuna Khichuri (Bengali Rice and Lentils)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Bhuna_Khichuri_(Bengali_Rice_and_Lentils)",
+        "category": "/wiki/Category:Bengali_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "137",
+        "source_id": "recipes/recipe_06_080.html",
+        "name": "Fried Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Fried_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "138",
+        "source_id": "recipes/recipe_10_121.html",
+        "name": "Mexican Chocolate Cake with Mocha Buttercream",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mexican_Chocolate_Cake_with_Mocha_Buttercream",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "139",
+        "source_id": "recipes/recipe_10_185.html",
+        "name": "Mocha Delight",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mocha_Delight",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "140",
+        "source_id": "recipes/recipe_11_065.html",
+        "name": "New Mexico Pork Tamales",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:New_Mexico_Pork_Tamales",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "141",
+        "source_id": "recipes/recipe_18_089.html",
+        "name": "Turkey Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Turkey_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "142",
+        "source_id": "recipes/recipe_00_131.html",
+        "name": "Arroz con Gandules (Puerto Rican Rice and Pigeon Peas)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arroz_con_Gandules_(Puerto_Rican_Rice_and_Pigeon_Peas)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "143",
+        "source_id": "recipes/recipe_14_093.html",
+        "name": "Ravioli",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ravioli",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "144",
+        "source_id": "recipes/recipe_18_095.html",
+        "name": "Tuscan Bean Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tuscan_Bean_Soup",
+        "category": "/wiki/Category:Bean_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "145",
+        "source_id": "recipes/recipe_02_113.html",
+        "name": "Cachupa (Cape Verdean Corn Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Cachupa_(Cape_Verdean_Corn_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "146",
+        "source_id": "recipes/recipe_06_097.html",
+        "name": "Fried Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Fried_Rice",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "147",
+        "source_id": "recipes/recipe_01_120.html",
+        "name": "Beef Stock",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_Stock",
+        "category": "/wiki/Category:Broth_and_stock_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "148",
+        "source_id": "recipes/recipe_09_102.html",
+        "name": "Lemon Chicken Pasta",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Chicken_Pasta",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "149",
+        "source_id": "recipes/recipe_16_135.html",
+        "name": "Spinach and Ricotta Lasagna",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spinach_and_Ricotta_Lasagna",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "150",
+        "source_id": "recipes/recipe_17_147.html",
+        "name": "Tchari (Jollof Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tchari_(Jollof_Rice)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "151",
+        "source_id": "recipes/recipe_18_170.html",
+        "name": "Vietnamese Rice Noodle and Beef Soup (B\u00fan b\u00f2 Hu\u1ebf)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Vietnamese_Rice_Noodle_and_Beef_Soup_(B%C3%BAn_b%C3%B2_Hu%E1%BA%BF)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "152",
+        "source_id": "recipes/recipe_05_089.html",
+        "name": "Easy Chicken Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Easy_Chicken_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "153",
+        "source_id": "recipes/recipe_09_058.html",
+        "name": "Kung Pao Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Kung_Pao_Chicken",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "154",
+        "source_id": "recipes/recipe_10_061.html",
+        "name": "Masala Dosa",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Masala_Dosa",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "155",
+        "source_id": "recipes/recipe_11_068.html",
+        "name": "New York Cheesecake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:New_York_Cheesecake",
+        "category": "/wiki/Category:Cheesecake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "156",
+        "source_id": "recipes/recipe_12_149.html",
+        "name": "Pan de Jam\u00f3n",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pan_de_Jam%C3%B3n",
+        "category": "/wiki/Category:Bread_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "157",
+        "source_id": "recipes/recipe_15_039.html",
+        "name": "Salat\u0103 de Boeuf (Romanian Beef Salad)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Salat%C4%83_de_Boeuf_(Romanian_Beef_Salad)",
+        "category": "/wiki/Category:Romanian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "158",
+        "source_id": "recipes/recipe_15_138.html",
+        "name": "Sharba Libya (Libyan Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sharba_Libya_(Libyan_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "159",
+        "source_id": "recipes/recipe_16_174.html",
+        "name": "Steamed Buns with BBQ Pork",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Steamed_Buns_with_BBQ_Pork",
+        "category": "/wiki/Category:Dumpling_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "160",
+        "source_id": "recipes/recipe_18_117.html",
+        "name": "Ukrainian Borscht",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ukrainian_Borscht",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "161",
+        "source_id": "recipes/recipe_02_019.html",
+        "name": "Braised Beef Short Ribs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Braised_Beef_Short_Ribs",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "162",
+        "source_id": "recipes/recipe_04_075.html",
+        "name": "Coq au Vin III",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Coq_au_Vin_III",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "163",
+        "source_id": "recipes/recipe_06_176.html",
+        "name": "Gboma Dessi and Akoume (Togolese Spinach Stew with Corn Swallow)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gboma_Dessi_and_Akoume_(Togolese_Spinach_Stew_with_Corn_Swallow)",
+        "category": "/wiki/Category:African_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "164",
+        "source_id": "recipes/recipe_06_192.html",
+        "name": "Ghormeh Sabzi (Iranian Herb Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ghormeh_Sabzi_(Iranian_Herb_Stew)",
+        "category": "/wiki/Category:Iranian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "165",
+        "source_id": "recipes/recipe_07_008.html",
+        "name": "Gingerbread Cookies Frosted with Royal Icing",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gingerbread_Cookies_Frosted_with_Royal_Icing",
+        "category": "/wiki/Category:Cookie_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "166",
+        "source_id": "recipes/recipe_08_194.html",
+        "name": "Katchi Biryani",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Katchi_Biryani",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "167",
+        "source_id": "recipes/recipe_09_014.html",
+        "name": "Khanom Tian (Thai Coconut Rice Dumplings)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Khanom_Tian_(Thai_Coconut_Rice_Dumplings)",
+        "category": "/wiki/Category:Dumpling_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "168",
+        "source_id": "recipes/recipe_12_141.html",
+        "name": "Pain au Levain Naturel",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pain_au_Levain_Naturel",
+        "category": "/wiki/Category:Bread_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "169",
+        "source_id": "recipes/recipe_15_027.html",
+        "name": "Saffron Rice and Beans",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Saffron_Rice_and_Beans",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "170",
+        "source_id": "recipes/recipe_16_081.html",
+        "name": "Spaghetti and Meatballs",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spaghetti_and_Meatballs",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "171",
+        "source_id": "recipes/recipe_18_063.html",
+        "name": "Tres Leches Cake I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tres_Leches_Cake_I",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "172",
+        "source_id": "recipes/recipe_00_073.html",
+        "name": "Alsatian Fish Stew (Matelote de poissons d'Alsace)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Alsatian_Fish_Stew_(Matelote_de_poissons_d%27Alsace)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "173",
+        "source_id": "recipes/recipe_03_128.html",
+        "name": "Chipotle Chili",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chipotle_Chili",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "174",
+        "source_id": "recipes/recipe_05_084.html",
+        "name": "East African Beef Pilaf",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:East_African_Beef_Pilaf",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "175",
+        "source_id": "recipes/recipe_07_009.html",
+        "name": "Gingerbread Pancakes I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gingerbread_Pancakes_I",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "176",
+        "source_id": "recipes/recipe_11_022.html",
+        "name": "Murghi Korma (Chicken Korma)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Murghi_Korma_(Chicken_Korma)",
+        "category": "/wiki/Category:Indian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "177",
+        "source_id": "recipes/recipe_01_037.html",
+        "name": "Banana Nutmeg Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Banana_Nutmeg_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "178",
+        "source_id": "recipes/recipe_01_136.html",
+        "name": "Benechin Kunkujang (Gambian Seasoned Rice and Lamb)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Benechin_Kunkujang_(Gambian_Seasoned_Rice_and_Lamb)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "179",
+        "source_id": "recipes/recipe_03_081.html",
+        "name": "Chicken Quesadilla",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Quesadilla",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "180",
+        "source_id": "recipes/recipe_04_087.html",
+        "name": "Corn Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Corn_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "181",
+        "source_id": "recipes/recipe_09_100.html",
+        "name": "Lemon Blueberry Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Blueberry_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "182",
+        "source_id": "recipes/recipe_12_110.html",
+        "name": "Orange Cardamom Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Orange_Cardamom_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "183",
+        "source_id": "recipes/recipe_13_150.html",
+        "name": "Potato and Chicken Stew (Ajiaco)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Potato_and_Chicken_Stew_(Ajiaco)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "184",
+        "source_id": "recipes/recipe_14_149.html",
+        "name": "Riz Gras (West African Fried Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Riz_Gras_(West_African_Fried_Rice)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "185",
+        "source_id": "recipes/recipe_15_061.html",
+        "name": "San Francisco Sourdough Bread",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:San_Francisco_Sourdough_Bread",
+        "category": "",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "186",
+        "source_id": "recipes/recipe_03_151.html",
+        "name": "Chocolate Cheesecake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chocolate_Cheesecake",
+        "category": "/wiki/Category:Cheesecake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "187",
+        "source_id": "recipes/recipe_04_135.html",
+        "name": "Creme Brulee Cheesecake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Creme_Brulee_Cheesecake",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "188",
+        "source_id": "recipes/recipe_05_140.html",
+        "name": "Egusi Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Egusi_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "189",
+        "source_id": "recipes/recipe_06_139.html",
+        "name": "Galician Garbanzo Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Galician_Garbanzo_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "190",
+        "source_id": "recipes/recipe_18_132.html",
+        "name": "Vancouver Cheesecake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Vancouver_Cheesecake",
+        "category": "/wiki/Category:Cheesecake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "191",
+        "source_id": "recipes/recipe_00_011.html",
+        "name": "Abula (Nigerian Three Stews)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Abula_(Nigerian_Three_Stews)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "192",
+        "source_id": "recipes/recipe_01_019.html",
+        "name": "Banana and Pear Cake (Vegan)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Banana_and_Pear_Cake_(Vegan)",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "193",
+        "source_id": "recipes/recipe_01_027.html",
+        "name": "Banana Chocolate Bread Pudding",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Banana_Chocolate_Bread_Pudding",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "194",
+        "source_id": "recipes/recipe_02_123.html",
+        "name": "California Curry Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:California_Curry_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "195",
+        "source_id": "recipes/recipe_06_036.html",
+        "name": "Flammekueche (Bacon and Onion Flatbread)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Flammekueche_(Bacon_and_Onion_Flatbread)",
+        "category": "/wiki/Category:Pastry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "196",
+        "source_id": "recipes/recipe_07_001.html",
+        "name": "Ginger Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ginger_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "197",
+        "source_id": "recipes/recipe_07_105.html",
+        "name": "G\u00f6zleme (Turkish Flatbread)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:G%C3%B6zleme_(Turkish_Flatbread)",
+        "category": "/wiki/Category:Turkish_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "198",
+        "source_id": "recipes/recipe_09_081.html",
+        "name": "Lancashire Corned Beef Hash",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lancashire_Corned_Beef_Hash",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "199",
+        "source_id": "recipes/recipe_09_101.html",
+        "name": "Lemon Cake with Lemon Glaze",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Cake_with_Lemon_Glaze",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "200",
+        "source_id": "recipes/recipe_09_118.html",
+        "name": "Lemon Poppy Seed Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Poppy_Seed_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "201",
+        "source_id": "recipes/recipe_10_174.html",
+        "name": "Miyan Gyada (Nigerian Groundnut Soup) II",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Miyan_Gyada_(Nigerian_Groundnut_Soup)_II",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "202",
+        "source_id": "recipes/recipe_11_047.html",
+        "name": "Nasi Goreng (Indonesian Fried Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nasi_Goreng_(Indonesian_Fried_Rice)",
+        "category": "/wiki/Category:Indonesian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "203",
+        "source_id": "recipes/recipe_12_006.html",
+        "name": "Nigerian Vegetable Fried Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Vegetable_Fried_Rice",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "204",
+        "source_id": "recipes/recipe_14_105.html",
+        "name": "Rhubarb and Custard Bread Pudding",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rhubarb_and_Custard_Bread_Pudding",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "205",
+        "source_id": "recipes/recipe_14_123.html",
+        "name": "Rice Cooked in Tomato Meat Sauce (Ross il-Forn)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rice_Cooked_in_Tomato_Meat_Sauce_(Ross_il-Forn)",
+        "category": "/wiki/Category:Maltese_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "206",
+        "source_id": "recipes/recipe_14_130.html",
+        "name": "Rice Tamale (Pastel de Arroz)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rice_Tamale_(Pastel_de_Arroz)",
+        "category": "/wiki/Category:Colombian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "207",
+        "source_id": "recipes/recipe_16_130.html",
+        "name": "Spicy Miso Udon",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spicy_Miso_Udon",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "208",
+        "source_id": "recipes/recipe_17_146.html",
+        "name": "Tchakpolo (Togolese Meat and Vegetable Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tchakpolo_(Togolese_Meat_and_Vegetable_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "209",
+        "source_id": "recipes/recipe_00_103.html",
+        "name": "Apple Crumb Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Apple_Crumb_Cake",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "210",
+        "source_id": "recipes/recipe_01_135.html",
+        "name": "Benachin (Gambian Rice with Meat and Vegetables)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Benachin_(Gambian_Rice_with_Meat_and_Vegetables)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "211",
+        "source_id": "recipes/recipe_03_078.html",
+        "name": "Chicken Parmigiana",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Parmigiana",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "212",
+        "source_id": "recipes/recipe_03_091.html",
+        "name": "Chicken Tagine with Lemon and Olives",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Tagine_with_Lemon_and_Olives",
+        "category": "/wiki/Category:Poultry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "213",
+        "source_id": "recipes/recipe_03_150.html",
+        "name": "Chocolate Cake with Coconut Topping (Vegan)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chocolate_Cake_with_Coconut_Topping_(Vegan)",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "214",
+        "source_id": "recipes/recipe_03_161.html",
+        "name": "Chocolate Chip Pancakes II",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chocolate_Chip_Pancakes_II",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "215",
+        "source_id": "recipes/recipe_04_021.html",
+        "name": "Cioppino (Italian Seafood Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Cioppino_(Italian_Seafood_Stew)",
+        "category": "/wiki/Category:Seafood_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "216",
+        "source_id": "recipes/recipe_06_178.html",
+        "name": "General Tso's Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:General_Tso%27s_Chicken",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "217",
+        "source_id": "recipes/recipe_06_194.html",
+        "name": "Giant Spaghetti-Stuffed Meatball",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Giant_Spaghetti-Stuffed_Meatball",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "218",
+        "source_id": "recipes/recipe_07_017.html",
+        "name": "Goat Cheese Cakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Goat_Cheese_Cakes",
+        "category": "/wiki/Category:Cheese_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "219",
+        "source_id": "recipes/recipe_07_055.html",
+        "name": "Green Turtle Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Green_Turtle_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "220",
+        "source_id": "recipes/recipe_11_033.html",
+        "name": "Muskrat Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Muskrat_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "221",
+        "source_id": "recipes/recipe_11_106.html",
+        "name": "Nigerian Coconut Fried Rice with Shrimp and Liver",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Coconut_Fried_Rice_with_Shrimp_and_Liver",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "222",
+        "source_id": "recipes/recipe_11_141.html",
+        "name": "Nigerian Jollof Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Jollof_Rice",
+        "category": "",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "223",
+        "source_id": "recipes/recipe_14_143.html",
+        "name": "Rigatoni Pasta with Ricotta in Tomato Cream Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Rigatoni_Pasta_with_Ricotta_in_Tomato_Cream_Sauce",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "224",
+        "source_id": "recipes/recipe_15_070.html",
+        "name": "Sauce Gombo (Okra Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sauce_Gombo_(Okra_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "225",
+        "source_id": "recipes/recipe_18_118.html",
+        "name": "Ukrainian Cabbage Soup (Kapusniak)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ukrainian_Cabbage_Soup_(Kapusniak)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "226",
+        "source_id": "recipes/recipe_00_068.html",
+        "name": "Almond Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Almond_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "227",
+        "source_id": "recipes/recipe_01_109.html",
+        "name": "Beef Curry",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_Curry",
+        "category": "/wiki/Category:Curry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "228",
+        "source_id": "recipes/recipe_04_074.html",
+        "name": "Coq au Vin II",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Coq_au_Vin_II",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "229",
+        "source_id": "recipes/recipe_05_049.html",
+        "name": "Dorowot Fitfit (Ethiopian Chicken Stew Salad)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Dorowot_Fitfit_(Ethiopian_Chicken_Stew_Salad)",
+        "category": "/wiki/Category:Ethiopian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "230",
+        "source_id": "recipes/recipe_05_144.html",
+        "name": "Egyptian Lentil Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Egyptian_Lentil_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "231",
+        "source_id": "recipes/recipe_08_135.html",
+        "name": "Italian-American Spaghetti alla Puttanesca",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Italian-American_Spaghetti_alla_Puttanesca",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "232",
+        "source_id": "recipes/recipe_08_196.html",
+        "name": "Kawlata (Maltese Vegetable and Pork Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Kawlata_(Maltese_Vegetable_and_Pork_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "233",
+        "source_id": "recipes/recipe_09_119.html",
+        "name": "Lemon Pound Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lemon_Pound_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "234",
+        "source_id": "recipes/recipe_10_183.html",
+        "name": "Moambe (Palm Nut Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Moambe_(Palm_Nut_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "235",
+        "source_id": "recipes/recipe_11_094.html",
+        "name": "Nigerian Carrot Stew",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Carrot_Stew",
+        "category": "/wiki/Category:Nigerian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "236",
+        "source_id": "recipes/recipe_11_191.html",
+        "name": "Nigerian Sesame Chicken",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Sesame_Chicken",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "237",
+        "source_id": "recipes/recipe_12_159.html",
+        "name": "Panamanian Ropa Vieja",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Panamanian_Ropa_Vieja",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "238",
+        "source_id": "recipes/recipe_17_092.html",
+        "name": "Sylheti Beef Curry",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Beef_Curry",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "239",
+        "source_id": "recipes/recipe_18_078.html",
+        "name": "Tuna Fried Rice",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tuna_Fried_Rice",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "240",
+        "source_id": "recipes/recipe_00_127.html",
+        "name": "Arancini (Italian Fried Rice Balls)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arancini_(Italian_Fried_Rice_Balls)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "241",
+        "source_id": "recipes/recipe_01_124.html",
+        "name": "Beef Yakiniku Pizza",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_Yakiniku_Pizza",
+        "category": "/wiki/Category:Pizza_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "242",
+        "source_id": "recipes/recipe_01_152.html",
+        "name": "Bint as-Sa\u1e25n (Yemenite Layered Pastry)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Bint_as-Sa%E1%B8%A5n_(Yemenite_Layered_Pastry)",
+        "category": "/w/index.php?title=Category:Flatbread_recipes&action=edit&redlink=1",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "243",
+        "source_id": "recipes/recipe_02_091.html",
+        "name": "Buttermilk Fried Chicken with Pan Gravy",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Buttermilk_Fried_Chicken_with_Pan_Gravy",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "244",
+        "source_id": "recipes/recipe_03_032.html",
+        "name": "Chereh Tamba (Gambian Groundnut Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chereh_Tamba_(Gambian_Groundnut_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "245",
+        "source_id": "recipes/recipe_03_097.html",
+        "name": "Chicken with Orange, Spinach and Cherry Tomatoes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_with_Orange,_Spinach_and_Cherry_Tomatoes",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "246",
+        "source_id": "recipes/recipe_03_195.html",
+        "name": "Christmas Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Christmas_Cake",
+        "category": "/wiki/Category:Dessert_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "247",
+        "source_id": "recipes/recipe_04_180.html",
+        "name": "Curry Chicken I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Curry_Chicken_I",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "248",
+        "source_id": "recipes/recipe_05_034.html",
+        "name": "Diri Na Njar (Chadian Spiced Rice with Vegetables)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Diri_Na_Njar_(Chadian_Spiced_Rice_with_Vegetables)",
+        "category": "/wiki/Category:Rice_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "249",
+        "source_id": "recipes/recipe_06_146.html",
+        "name": "Gambian Superkanja Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gambian_Superkanja_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "250",
+        "source_id": "recipes/recipe_07_170.html",
+        "name": "Holiday Cake (Spiced Fruitcake Loaf)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Holiday_Cake_(Spiced_Fruitcake_Loaf)",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "251",
+        "source_id": "recipes/recipe_08_012.html",
+        "name": "Honey Lime Pork Loin",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Honey_Lime_Pork_Loin",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "252",
+        "source_id": "recipes/recipe_09_004.html",
+        "name": "Keralan Vegetable Stew",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Keralan_Vegetable_Stew",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "253",
+        "source_id": "recipes/recipe_09_199.html",
+        "name": "Maff\u00e9 (West African Peanut Stew) I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Maff%C3%A9_(West_African_Peanut_Stew)_I",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "254",
+        "source_id": "recipes/recipe_10_180.html",
+        "name": "Miyan Taushe (Nigerian Pumpkin Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Miyan_Taushe_(Nigerian_Pumpkin_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "255",
+        "source_id": "recipes/recipe_11_017.html",
+        "name": "Muceere (Ugandan Pumpkin Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Muceere_(Ugandan_Pumpkin_Stew)",
+        "category": "/wiki/Category:Ugandan_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "256",
+        "source_id": "recipes/recipe_16_087.html",
+        "name": "Spaghetti with Clams in White Wine Sauce",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Spaghetti_with_Clams_in_White_Wine_Sauce",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "257",
+        "source_id": "recipes/recipe_17_053.html",
+        "name": "Sweet and Sour Chinese Pork",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sweet_and_Sour_Chinese_Pork",
+        "category": "/wiki/Category:Pork_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "258",
+        "source_id": "recipes/recipe_17_115.html",
+        "name": "Tagliatelle Bake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tagliatelle_Bake",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "259",
+        "source_id": "recipes/recipe_00_056.html",
+        "name": "Algerian Couscous",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Algerian_Couscous",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "260",
+        "source_id": "recipes/recipe_01_167.html",
+        "name": "Black Bean Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Black_Bean_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "261",
+        "source_id": "recipes/recipe_02_081.html",
+        "name": "Burmese Pork Curry",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Burmese_Pork_Curry",
+        "category": "/wiki/Category:Curry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "262",
+        "source_id": "recipes/recipe_04_079.html",
+        "name": "Corn and Shrimp Chowder",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Corn_and_Shrimp_Chowder",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "263",
+        "source_id": "recipes/recipe_04_175.html",
+        "name": "Cullen Skink (Haddock and Potato Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Cullen_Skink_(Haddock_and_Potato_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "264",
+        "source_id": "recipes/recipe_05_031.html",
+        "name": "Dhokla (Steamed Black Gram Bread)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Dhokla_(Steamed_Black_Gram_Bread)",
+        "category": "/wiki/Category:Indian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "265",
+        "source_id": "recipes/recipe_05_111.html",
+        "name": "Efo Iyana Ipaja Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Efo_Iyana_Ipaja_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "266",
+        "source_id": "recipes/recipe_05_171.html",
+        "name": "Entula (Ugandan Eggplant Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Entula_(Ugandan_Eggplant_Stew)",
+        "category": "/wiki/Category:Ugandan_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "267",
+        "source_id": "recipes/recipe_06_110.html",
+        "name": "Frittaten Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Frittaten_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "268",
+        "source_id": "recipes/recipe_06_145.html",
+        "name": "Gambian Mbamba Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gambian_Mbamba_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "269",
+        "source_id": "recipes/recipe_07_089.html",
+        "name": "Groundnut Butter Soup",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Groundnut_Butter_Soup",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "270",
+        "source_id": "recipes/recipe_08_065.html",
+        "name": "Ifokore (Nigerian Water Yam Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ifokore_(Nigerian_Water_Yam_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "271",
+        "source_id": "recipes/recipe_08_182.html",
+        "name": "Kanda (Peanut Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Kanda_(Peanut_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "272",
+        "source_id": "recipes/recipe_08_190.html",
+        "name": "Karnataka-Style Rasam (Tamarind and Tomato Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Karnataka-Style_Rasam_(Tamarind_and_Tomato_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "273",
+        "source_id": "recipes/recipe_09_084.html",
+        "name": "Lane Cake",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Lane_Cake",
+        "category": "/wiki/Category:Cake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "274",
+        "source_id": "recipes/recipe_09_153.html",
+        "name": "Light Fluffy Pancakes",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Light_Fluffy_Pancakes",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "275",
+        "source_id": "recipes/recipe_09_183.html",
+        "name": "M'batata (Sweet Potato And Peanut Soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:M%27batata_(Sweet_Potato_And_Peanut_Soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "276",
+        "source_id": "recipes/recipe_11_020.html",
+        "name": "Mung Bean and Brown Rice Curry",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mung_Bean_and_Brown_Rice_Curry",
+        "category": "/wiki/Category:Curry_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "277",
+        "source_id": "recipes/recipe_11_081.html",
+        "name": "Nigerian Beef Marcaroni",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Nigerian_Beef_Marcaroni",
+        "category": "/wiki/Category:Pasta_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "278",
+        "source_id": "recipes/recipe_13_133.html",
+        "name": "Pork Gyoza",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Pork_Gyoza",
+        "category": "/wiki/Category:Appetizer_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "279",
+        "source_id": "recipes/recipe_15_069.html",
+        "name": "Sauce Feuilles (Greens Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sauce_Feuilles_(Greens_Stew)",
+        "category": "/wiki/Category:Stew_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "280",
+        "source_id": "recipes/recipe_17_093.html",
+        "name": "Sylheti Biryani",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Sylheti_Biryani",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "281",
+        "source_id": "recipes/recipe_18_019.html",
+        "name": "Tokyo Pancake (Khanom Tokyo)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Tokyo_Pancake_(Khanom_Tokyo)",
+        "category": "/wiki/Category:Thai_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "282",
+        "source_id": "recipes/recipe_00_060.html",
+        "name": "Alicha Wot (Mild Ethiopian Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Alicha_Wot_(Mild_Ethiopian_Stew)",
+        "category": "/wiki/Category:Main_course_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "283",
+        "source_id": "recipes/recipe_00_128.html",
+        "name": "Arisa (Malaysian Blended Chicken)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Arisa_(Malaysian_Blended_Chicken)",
+        "category": "/wiki/Category:Meat_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "284",
+        "source_id": "recipes/recipe_01_094.html",
+        "name": "Bean Soup (Vegetarian)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Bean_Soup_(Vegetarian)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "285",
+        "source_id": "recipes/recipe_01_101.html",
+        "name": "Beef and Guinness Casserole",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Beef_and_Guinness_Casserole",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "286",
+        "source_id": "recipes/recipe_02_014.html",
+        "name": "Boule-Di (Senegalese Fish and Rice)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Boule-Di_(Senegalese_Fish_and_Rice)",
+        "category": "/wiki/Category:Fish_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "287",
+        "source_id": "recipes/recipe_03_077.html",
+        "name": "Chicken Parmesan",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chicken_Parmesan",
+        "category": "/wiki/Category:Chicken_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "288",
+        "source_id": "recipes/recipe_03_160.html",
+        "name": "Chocolate Chip Pancakes I",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Chocolate_Chip_Pancakes_I",
+        "category": "/wiki/Category:Pancake_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "289",
+        "source_id": "recipes/recipe_06_143.html",
+        "name": "Gambian Caldo (Seafood soup)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gambian_Caldo_(Seafood_soup)",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "290",
+        "source_id": "recipes/recipe_06_174.html",
+        "name": "Gazpacho",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gazpacho",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "291",
+        "source_id": "recipes/recipe_07_027.html",
+        "name": "Gorgonzola Stuffed Chateaubriand",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Gorgonzola_Stuffed_Chateaubriand",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "292",
+        "source_id": "recipes/recipe_07_120.html",
+        "name": "Hamburger Deluxe",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Hamburger_Deluxe",
+        "category": "/wiki/Category:Beef_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "293",
+        "source_id": "recipes/recipe_08_054.html",
+        "name": "Ibirayi n'Ibishyimbo (Rwandan Bean Soup with Fish)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ibirayi_n%27Ibishyimbo_(Rwandan_Bean_Soup_with_Fish)",
+        "category": "/wiki/Category:African_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "294",
+        "source_id": "recipes/recipe_08_171.html",
+        "name": "Ka'ak (Savory Ring-Shaped Biscuit)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Ka%27ak_(Savory_Ring-Shaped_Biscuit)",
+        "category": "/wiki/Category:Bread_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "295",
+        "source_id": "recipes/recipe_09_008.html",
+        "name": "Key Wat (Ethiopian Red Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Key_Wat_(Ethiopian_Red_Stew)",
+        "category": "/wiki/Category:Ethiopian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "296",
+        "source_id": "recipes/recipe_09_010.html",
+        "name": "Khaman Dhokla (Steamed Gram Bread)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Khaman_Dhokla_(Steamed_Gram_Bread)",
+        "category": "/wiki/Category:Snack_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "297",
+        "source_id": "recipes/recipe_09_046.html",
+        "name": "Koshari (Egyptian Rice with Pasta and Lentils)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Koshari_(Egyptian_Rice_with_Pasta_and_Lentils)",
+        "category": "/wiki/Category:Egyptian_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "298",
+        "source_id": "recipes/recipe_10_031.html",
+        "name": "Manhattan Clam Chowder II",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Manhattan_Clam_Chowder_II",
+        "category": "/wiki/Category:Soup_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "299",
+        "source_id": "recipes/recipe_10_115.html",
+        "name": "Mesir Wat (Spicy Ethiopian Lentil Stew)",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mesir_Wat_(Spicy_Ethiopian_Lentil_Stew)",
+        "category": "/wiki/Category:Main_course_recipes",
+        "rationale": "Diversity/Quality match"
+    },
+    {
+        "selection_number": "300",
+        "source_id": "recipes/recipe_10_154.html",
+        "name": "Mince Pie Tartlets with Pork",
+        "url": "https://en.wikibooks.org/wiki/Cookbook:Mince_Pie_Tartlets_with_Pork",
+        "category": "/wiki/Category:Pie_and_tart_recipes",
+        "rationale": "Diversity/Quality match"
+    }
+]

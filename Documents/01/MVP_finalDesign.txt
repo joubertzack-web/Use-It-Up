@@ -1,0 +1,343 @@
+Establishing Ground Zero
+
+Phase: 0 — Foundation / Ground Zero
+Status: COMPLETE
+MVP Platform: Native Android
+Primary Principle: Local-first, reliable, data-driven
+
+01 — Data Model
+
+Use It Up is a data-heavy application and will use structured entities.
+
+Recipe
+ID
+Name
+Ingredients
+Instructions
+Tags
+Source
+Ingredient
+ID
+Name
+Quantity
+Unit
+Category
+Pantry
+Ingredient ID
+Quantity
+Optional expiration date
+Grocery List
+Ingredient ID
+Required quantity
+Recipe references
+Use It Up
+Ingredient ID
+Quantity
+Optional notes
+
+The final implementation may extend these models as necessary, but the underlying data must remain structured and consistent.
+
+Status: DONE
+
+02 — Recipe Source Strategy
+
+The MVP recipe corpus will contain at least 300 unique, complete, validated recipes.
+
+Initial acquisition target:
+
+100 from Wikibooks
+100 from Library of Congress/public-domain cookbook material
+100 from a mixture of other appropriate open/public-domain sources
+
+The corpus is intended to provide substantial variety rather than being designed exclusively around one household's preferences.
+
+The source/provenance of every recipe must be retained.
+
+Duplicate or unusable recipes do not count toward the final 300.
+
+Status: DONE
+
+03 — User Experience Flow
+
+A brand-new user must be able to:
+
+Open Use It Up and see a usable home screen.
+Add ingredients they currently have.
+Add a leftover.
+Search for something they're interested in.
+See relevant recipes.
+See the ★ Top 5 automatically generated recommendations.
+Open a recipe.
+Favorite the recipe.
+See which ingredients are missing.
+Add missing ingredients to a grocery list.
+Return later and still have their saved information.
+Modify and use the grocery list.
+
+This represents the minimum established A → Z experience for MVP.
+
+The UI must be functional, coherent, cozy, and pleasing. Fine visual polish can continue after MVP.
+
+Status: DONE
+
+04 — MVP
+Required MVP capabilities
+Recipe Management
+300+ validated recipes
+Search
+Sort
+Filters
+Recipe Manager
+Open recipe details
+Favorite recipes
+Personal recipes
+Structured recipe data
+Imported/supported recipe content where included in the MVP corpus
+Ingredients & Use It Up
+Save ingredients
+Optional quantities
+Save leftovers
+Optional quantities
+Ingredient-aware matching
+Leftover-aware matching
+Recommendations
+
+The Recipe Manager produces a deterministic score:
+
+Search relevance
++ Ingredients available
++ Favorite affinity
++ Leftover match
++ Recipe/category relevance
+────────────────────────
+        SCORE
+
+The Top 5 results receive a ★ indicator.
+
+Recommendations must be deterministic and reproducible.
+
+Grocery Management
+Identify missing ingredients
+Add missing ingredients to grocery lists
+Modify grocery lists
+Use grocery lists
+Combine ingredient requirements across multiple recipes
+
+Example:
+
+Recipe A → 1 onion
+Recipe B → ½ onion
+Recipe C → 2 onions
+
+
+Total → 3½ onions
+
+The application performs the calculation rather than requiring the user to do it manually.
+
+Persistence
+
+User information must survive closing and reopening the application.
+
+Reliability
+
+MVP will not release with known P0/P1 defects.
+
+Every core acceptance workflow must pass repeated manual validation.
+
+Automated testing is supporting evidence, not the sole authority for release.
+
+Status: DONE
+
+05 — Tech Stack
+Platform
+
+Native Android
+
+Language
+
+Kotlin
+
+UI
+
+Jetpack Compose
+
+The UI will be modular and data-driven.
+
+The intended pattern is:
+
+Recipe JSON
+    ↓
+Kotlin data model
+    ↓
+Reusable Recipe Page
+    ↓
+Jetpack Compose UI
+
+One reusable recipe interface should display different recipes by consuming their structured data rather than requiring a unique UI implementation for each recipe.
+
+Database
+
+Room + SQLite
+
+Used for local application persistence and runtime querying.
+
+Recipe Corpus
+
+Validated recipe JSON will be:
+
+Bundled with the application
+Read-only seed data
+Imported/indexed into Room on first launch
+
+The bundled JSON remains the canonical recipe-content representation.
+
+User-created and user-modified information remains separate from the immutable bundled corpus.
+
+Search
+
+Room/SQLite-backed search supporting:
+
+Recipe names
+Ingredients
+Cuisine/style
+Tags
+Dietary tags
+Descriptions
+Partial-word matching
+Multiple search terms
+
+Search relevance is separate from the recommendation score.
+
+Recommendation Engine
+
+Deterministic Kotlin implementation.
+
+No dependency.
+
+Application Architecture
+
+User-defined during implementation.
+
+Phase 0 does not mandate MVVM, Clean Architecture, repository patterns, or another specific architecture.
+
+Build Toolchain
+Android Studio
+Gradle
+Kotlin
+Standard Android build tooling
+Testing
+Unit tests
+Room/database tests
+Critical UI/instrumentation tests where useful
+Repeated manual validation of every core acceptance workflow
+Android Compatibility
+
+Minimum: Android 10 / API 29+
+
+Target SDK will follow the current Android requirements at release.
+
+Status: DONE
+
+06 — Privacy & Data Handling
+
+Use It Up is local-first.
+
+MVP does not require:
+
+User accounts
+Cloud synchronization
+Cloud database
+Analytics
+Tracking
+Advertising infrastructure
+External processing of user data
+
+User data remains on the device, including:
+
+Ingredients
+Pantry information
+Use It Up
+Favorites
+Personal recipes
+Grocery lists
+Preferences
+Application state
+
+The core application should remain functional without an Internet connection after installation and recipe initialization.
+
+More advanced privacy/security infrastructure belongs to the future.
+
+Status: DONE
+
+07 — Long-Term Vision
+
+The long-term vision is the remaining product functionality that is intentionally excluded from MVP.
+
+Potential future features include:
+
+Favorites Pantry
+Expiration-aware recommendations
+"Use It Up" optimization
+Minimize grocery cost
+Minimize food waste
+Favorite-meal planning
+Dietary-preference scoring
+Recipe importing
+Broader external recipe-source integration
+Ingredient substitutions
+More advanced recommendation scoring
+iOS version
+Cross-device synchronization
+Cloud synchronization
+User accounts
+Optional online services
+Other features driven by actual user feedback
+
+Future functionality does not automatically become an MVP requirement.
+
+Features can be promoted from future to core only when justified by product feedback or actual usage.
+
+Status: DONE
+
+PHASE 0 FINAL RULE
+
+Use It Up does not ship an immature MVP.
+
+The MVP is considered complete only when:
+
+Core functionality works A → Z
+300+ recipes are validated
+User data persists reliably
+Search and recommendations work reliably
+Grocery workflows work reliably
+The UI is fully usable
+No known P0/P1 defects remain
+Every core acceptance workflow repeatedly passes manual validation
+
+GROUND ZERO
+                    USE IT UP
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+          MVP CORE          FUTURE VISION
+              │                   │
+      Reliable foundation    Remaining features
+              │                   │
+       Native Android           Cloud / iOS
+              │              Advanced features
+          Kotlin
+              │
+       Jetpack Compose
+              │
+         Room / SQLite
+              │
+       Recipe JSON Corpus
+              │
+       Recipe Manager
+          /       \
+      Search     Matching
+                   │
+             Deterministic
+              ★ Scoring
+
+Phase 0 — Establishing Ground Zero: COMPLETE.

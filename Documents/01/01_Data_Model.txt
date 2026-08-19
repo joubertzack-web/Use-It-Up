@@ -1,0 +1,41 @@
+Phase 0.1 — Define Data Model
+
+Objective:
+Define the complete logical data model for the application before implementation begins.
+
+Initial entities identified:
+
+Recipe
+id
+name
+ingredients[]
+instructions
+tags
+source
+Ingredient
+id
+name
+quantity
+unit
+category
+Pantry
+ingredient_id
+quantity
+expiration_date (optional)
+Grocery List
+ingredient_id
+needed_quantity
+recipe_reference_ids[]
+Use It Up
+ingredient_id
+quantity
+notes (optional)
+
+Key requirement:
+The final model must support the application's core behavior:
+
+Recipes ↔ Ingredients ↔ Pantry ↔ Use It Up ↔ Grocery Lists
+
+while allowing the system to determine what the user already has, what recipes they can make, what ingredients are missing, and what should be purchased when multiple recipes are combined.
+
+Status: IN PROGRESS

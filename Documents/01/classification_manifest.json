@@ -1,0 +1,3691 @@
+[
+    {
+        "recipe_id": 75,
+        "name": "Chicken \u00e0 la King",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 61,
+        "name": "Chicken Cacciatore",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Italian",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 62,
+        "name": "Chicken Curry",
+        "tags": [
+            "/wiki/Category:Curry_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 72,
+        "name": "Chicken Tikka Masala",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 63,
+        "name": "Chicken Paprikash",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 161,
+        "name": "Khao Pad Gai (Thai Chicken Fried Rice)",
+        "tags": [
+            "/wiki/Category:Thai_recipes",
+            "Asian",
+            "Chicken",
+            "Eggs",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 86,
+        "name": "Coconut Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice"
+        ]
+    },
+    {
+        "recipe_id": 173,
+        "name": "Locrio (Dominican Chicken and Rice)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 15,
+        "name": "Arroz con Pollo (Rice and Chicken)",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 10,
+        "name": "Apricot Chicken Salad",
+        "tags": [
+            "/wiki/Category:Salad_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Salad",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 269,
+        "name": "Surinamese Chicken Pot Pie (Pastei)",
+        "tags": [
+            "/wiki/Category:Pie_recipes",
+            "Chicken",
+            "Dessert",
+            "Eggs",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 71,
+        "name": "Chicken Tetrazzini",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Bread",
+            "Chicken",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 68,
+        "name": "Chicken Soup with Dumplings",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 69,
+        "name": "Chicken Soup with Rice and Potatoes",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Rice",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 67,
+        "name": "Chicken Rice Salad",
+        "tags": [
+            "/wiki/Category:Salad_recipes",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Salad",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 58,
+        "name": "Chicken and Pasta Alfredo",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Chicken",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 55,
+        "name": "Cheesy Chicken Pasta",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Chicken",
+            "Italian",
+            "Meat",
+            "Pasta"
+        ]
+    },
+    {
+        "recipe_id": 59,
+        "name": "Chicken Barbecue Sauce",
+        "tags": [
+            "/wiki/Category:Sauce_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 142,
+        "name": "Hickory BBQ Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "BBQ",
+            "Chicken",
+            "Gluten-Free",
+            "Meat"
+        ]
+    },
+    {
+        "recipe_id": 21,
+        "name": "Backyard BBQ Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "BBQ",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 211,
+        "name": "North Carolina Style BBQ Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "BBQ",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Southern"
+        ]
+    },
+    {
+        "recipe_id": 253,
+        "name": "Smore (Eurasian Beef Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Asian",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 29,
+        "name": "Beef and Barley Stew",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Bread",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 1,
+        "name": "20-Minute Beef Stroganoff",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Eggs",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 34,
+        "name": "Beef Fajitas",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 32,
+        "name": "Beef Burgers with Chipotle Mayo",
+        "tags": [
+            "/wiki/Category:Hamburger_recipes",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 31,
+        "name": "Beef and Mushroom Burger",
+        "tags": [
+            "/wiki/Category:Sandwich_recipes",
+            "Beef",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 251,
+        "name": "Sloppy Joes",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 275,
+        "name": "Taco Meat",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 276,
+        "name": "Taco Salad",
+        "tags": [
+            "/wiki/Category:Salad_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Salad",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 274,
+        "name": "Taco Casserole",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Casserole",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 282,
+        "name": "Texas Easy Chili",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 298,
+        "name": "Venison Bolognese Sauce",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 288,
+        "name": "Traditional Lasagne",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 250,
+        "name": "Skillet Lasagna",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 258,
+        "name": "Spaghetti Bake",
+        "tags": [
+            "/wiki/Category:Casserole_recipes",
+            "Beef",
+            "Bread",
+            "Casserole",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 259,
+        "name": "Spaghetti Pie",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Bread",
+            "Dessert",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 260,
+        "name": "Spaghetti with Bolognese Meat Sauce",
+        "tags": [
+            "/wiki/Category:Italian_recipes",
+            "Beef",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 182,
+        "name": "Meatloaf Dinner",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Main Course",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 25,
+        "name": "Barbecue Meatloaf",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "BBQ",
+            "Beef",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 278,
+        "name": "Tater Tot Casserole",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Casserole",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 249,
+        "name": "Six Layer Casserole",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Casserole",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 284,
+        "name": "Texas Style Chicken Fried Steak",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 266,
+        "name": "Steak Sandwiches",
+        "tags": [
+            "/wiki/Category:Sandwich_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 265,
+        "name": "Steak au Poivre (Pepper Steak)",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 19,
+        "name": "Baby Back Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 20,
+        "name": "Backyard Barbecue Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 283,
+        "name": "Texas Style Barbecue Ribs",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 26,
+        "name": "Barbecued Spare Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 27,
+        "name": "BBQ Pork Fried Rice",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "BBQ",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 54,
+        "name": "Char Siu (Chinese BBQ pork)",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Asian",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice"
+        ]
+    },
+    {
+        "recipe_id": 77,
+        "name": "Chipotle BBQ Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 103,
+        "name": "Dry Rub Barbecue Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 105,
+        "name": "Eastern North Carolina Barbecued Pig",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Pork",
+            "Southern",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 132,
+        "name": "Ginger Peach Glazed BBQ Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 143,
+        "name": "Hickory BBQ Pork Loin",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 178,
+        "name": "Maple Barbecue Baby Back Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 179,
+        "name": "Maple-Glazed BBQ Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 183,
+        "name": "Memphis-Style BBQ Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 187,
+        "name": "Mexican Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 212,
+        "name": "North Carolina-Style BBQ Ribs",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Southern"
+        ]
+    },
+    {
+        "recipe_id": 227,
+        "name": "Pulled Pork Sandwiches",
+        "tags": [
+            "/wiki/Category:Sandwich_recipes",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 254,
+        "name": "Southern Barbecue Ribs",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "BBQ",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Southern"
+        ]
+    },
+    {
+        "recipe_id": 223,
+        "name": "Pork Pot Pie",
+        "tags": [
+            "/wiki/Category:Pastry_recipes",
+            "Dessert",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 224,
+        "name": "Pork Tenderloin with Asparagus and Prosciutto",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 239,
+        "name": "Roast Pork Loin with Gravy",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 268,
+        "name": "Stuffed Pork Roast",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Bread",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 271,
+        "name": "Sweet and Sour Pork Loin",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 255,
+        "name": "Southern Cornbread",
+        "tags": [
+            "/wiki/Category:Bread_recipes",
+            "Eggs",
+            "Gluten-Free",
+            "Southern",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 42,
+        "name": "Biscuits and Gravy",
+        "tags": [
+            "/wiki/Category:Breakfast_recipes",
+            "Breakfast",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 93,
+        "name": "Country Fried Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 94,
+        "name": "Country Roast Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat"
+        ]
+    },
+    {
+        "recipe_id": 256,
+        "name": "Southern Style Greens",
+        "tags": [
+            "/wiki/Category:Vegetable_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Southern",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 146,
+        "name": "Hoppin John",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 100,
+        "name": "Dirty Rice",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 151,
+        "name": "Jambalaya II",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 60,
+        "name": "Chicken Bog I",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 200,
+        "name": "New Mexico Chili Verde",
+        "tags": [
+            "/wiki/Category:Chili_recipes",
+            "Meat",
+            "Pork",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 221,
+        "name": "Pork Burritos with Green Pepper Sauce",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Bread",
+            "Meat",
+            "Mexican",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 281,
+        "name": "Texas Brisket Sandwiches",
+        "tags": [
+            "/wiki/Category:Sandwich_recipes",
+            "Beef",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 252,
+        "name": "Smokehouse Burgers",
+        "tags": [
+            "/wiki/Category:Hamburger_recipes",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 188,
+        "name": "Midwestern Chicken Wings",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 48,
+        "name": "Bulgogi",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 40,
+        "name": "Bibimbap",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Beef",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 287,
+        "name": "Tonkatsu",
+        "tags": [
+            "/wiki/Category:Japanese_recipes",
+            "Asian",
+            "Bread",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 139,
+        "name": "Gyudon (Japanese Beef and Rice Bowl)",
+        "tags": [
+            "/wiki/Category:Japanese_recipes",
+            "Asian",
+            "Beef",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 285,
+        "name": "Thalassery Biryani",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 236,
+        "name": "Risotto alla Milanese",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Italian",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 235,
+        "name": "Risotto ai Funghi",
+        "tags": [
+            "/wiki/Category:Risotto_recipes",
+            "Bread",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Italian",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 213,
+        "name": "Nyama Choma (Tanzanian Barbecue)",
+        "tags": [
+            "/wiki/Category:Tanzanian_recipes",
+            "BBQ",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 17,
+        "name": "Asparagus Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 107,
+        "name": "Efo Amunututu (Nigerian Malabar Spinach Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 229,
+        "name": "Rasam (Tamarind and Tomato Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 245,
+        "name": "Sancocho (Dominican Meat and Vegetable Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Rice",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 114,
+        "name": "Erwtensoep (Split Pea Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 44,
+        "name": "Black Bean Soup with Tomato-Tomatillo Salsa",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Mexican",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 217,
+        "name": "Pan-fried Beef Steak",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 7,
+        "name": "American Potato Salad I",
+        "tags": [
+            "/wiki/Category:Salad_recipes",
+            "American",
+            "Gluten-Free",
+            "Potatoes",
+            "Salad",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 175,
+        "name": "Macaroni and Cheese (Baked)",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Bread",
+            "Casserole",
+            "Eggs",
+            "Italian",
+            "Pasta",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 119,
+        "name": "Fried Chicken and Fried Potatoes",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 115,
+        "name": "Firfir (Ethiopian Spicy Scrambled Eggs with Injera)",
+        "tags": [
+            "/wiki/Category:Breakfast_recipes",
+            "African",
+            "Breakfast",
+            "Eggs",
+            "Gluten-Free",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 76,
+        "name": "Chili Cornbread Casserole",
+        "tags": [
+            "/wiki/Category:Casserole_recipes",
+            "Beef",
+            "Casserole",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 9,
+        "name": "Applesauce Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 149,
+        "name": "Italian Rice Pudding",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Dessert",
+            "Gluten-Free",
+            "Italian",
+            "Rice",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 220,
+        "name": "Peach Pie",
+        "tags": [
+            "/wiki/Category:Pie_and_tart_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 18,
+        "name": "Atomic Fudge Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 238,
+        "name": "Roast Beef",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Bread",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 226,
+        "name": "Prekmurska Gibanica (Slovenian Layered Strudel Cake)",
+        "tags": [
+            "/wiki/Category:Pastry_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 184,
+        "name": "Menudo (Mexican Tripe and Hominy Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Mexican",
+            "Pork",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 219,
+        "name": "Pasta Casserole (Pastitsio)",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Bread",
+            "Casserole",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 45,
+        "name": "Black Forest Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 166,
+        "name": "Lasagne with Red and White Sauce",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 180,
+        "name": "Marzipan Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 87,
+        "name": "Coconut Cream Filled Cake with Meringue (Bienmesabe)",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 117,
+        "name": "Fresh Egg Pasta (Pasta Fresca All'uovo)",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Eggs",
+            "Italian",
+            "Pasta",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 206,
+        "name": "Nigerian Chicken Suya Pizza",
+        "tags": [
+            "/wiki/Category:Pizza_recipes",
+            "African",
+            "Chicken",
+            "Italian",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 109,
+        "name": "Efo Riro (Nigerian Amaranth Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 243,
+        "name": "Salmon with Rice and Sauce",
+        "tags": [
+            "/wiki/Category:Salmon_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Rice",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 101,
+        "name": "Doro Dabo (Ethiopian Chicken with Spiced Bread)",
+        "tags": [
+            "/wiki/Category:Ethiopian_recipes",
+            "African",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 295,
+        "name": "Valentine's Day Chocolate Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 73,
+        "name": "Chicken Vindaloo",
+        "tags": [
+            "/wiki/Category:Indian_recipes",
+            "Asian",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 196,
+        "name": "Murgh Musallam (Indian Stewed Spiced Chicken)",
+        "tags": [
+            "/wiki/Category:Curry_recipes",
+            "American",
+            "Asian",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 240,
+        "name": "Roasted Chicken Nachos With Green Chili-Cheese Sauce",
+        "tags": [
+            "/wiki/Category:Tex-Mex_recipes",
+            "Bread",
+            "Chicken",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 113,
+        "name": "Eru And Water Fufu",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 205,
+        "name": "Nigerian Chicken Pie",
+        "tags": [
+            "/wiki/Category:Pie_and_tart_recipes",
+            "African",
+            "Chicken",
+            "Dessert",
+            "Meat",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 262,
+        "name": "Spicy Chicken Cutlets",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 297,
+        "name": "Vegetable Stew and Dumplings",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Potatoes",
+            "Stew",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 53,
+        "name": "Cantonese Crispy Fried Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 228,
+        "name": "Rainbow Cake",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 300,
+        "name": "Wonton Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 14,
+        "name": "Arroz con Maiz (Rice with Corn)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Beef",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 16,
+        "name": "Arroz Negro (Valencian Squid Rice)",
+        "tags": [
+            "/wiki/Category:Spanish_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 57,
+        "name": "Chicken and Corn Empanadas",
+        "tags": [
+            "/wiki/Category:Pastry_recipes",
+            "Bread",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 83,
+        "name": "Chocolate Mousse Cake (Vegan)",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Rice",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 92,
+        "name": "Coronet Cupcakes",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 39,
+        "name": "Bhuna Khichuri (Bengali Rice and Lentils)",
+        "tags": [
+            "/wiki/Category:Bengali_recipes",
+            "Bread",
+            "Gluten-Free",
+            "Rice",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 118,
+        "name": "Fried Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 186,
+        "name": "Mexican Chocolate Cake with Mocha Buttercream",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Mexican",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 193,
+        "name": "Mocha Delight",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 201,
+        "name": "New Mexico Pork Tamales",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Chicken",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 291,
+        "name": "Turkey Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Eggs",
+            "Meat",
+            "Pasta",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 13,
+        "name": "Arroz con Gandules (Puerto Rican Rice and Pigeon Peas)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Beef",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 230,
+        "name": "Ravioli",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Fish",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Potatoes",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 292,
+        "name": "Tuscan Bean Soup",
+        "tags": [
+            "/wiki/Category:Bean_recipes",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 51,
+        "name": "Cachupa (Cape Verdean Corn Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 120,
+        "name": "Fried Rice",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Beef",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 35,
+        "name": "Beef Stock",
+        "tags": [
+            "/wiki/Category:Broth_and_stock_recipes",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 169,
+        "name": "Lemon Chicken Pasta",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Italian",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 264,
+        "name": "Spinach and Ricotta Lasagna",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Eggs",
+            "Italian",
+            "Pasta",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 280,
+        "name": "Tchari (Jollof Rice)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 299,
+        "name": "Vietnamese Rice Noodle and Beef Soup (B\u00fan b\u00f2 Hu\u1ebf)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Asian",
+            "Beef",
+            "Bread",
+            "Meat",
+            "Pasta",
+            "Rice",
+            "Seafood",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 106,
+        "name": "Easy Chicken Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Meat",
+            "Pasta",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 163,
+        "name": "Kung Pao Chicken",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 181,
+        "name": "Masala Dosa",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Dessert",
+            "Gluten-Free",
+            "Potatoes",
+            "Rice",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 202,
+        "name": "New York Cheesecake",
+        "tags": [
+            "/wiki/Category:Cheesecake_recipes",
+            "Bread",
+            "Dessert",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 216,
+        "name": "Pan de Jam\u00f3n",
+        "tags": [
+            "/wiki/Category:Bread_recipes",
+            "Eggs",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 242,
+        "name": "Salat\u0103 de Boeuf (Romanian Beef Salad)",
+        "tags": [
+            "/wiki/Category:Romanian_recipes",
+            "Beef",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Salad",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 248,
+        "name": "Sharba Libya (Libyan Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Meat",
+            "Pasta",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 267,
+        "name": "Steamed Buns with BBQ Pork",
+        "tags": [
+            "/wiki/Category:Dumpling_recipes",
+            "BBQ",
+            "Bread",
+            "Chicken",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 293,
+        "name": "Ukrainian Borscht",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 47,
+        "name": "Braised Beef Short Ribs",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 89,
+        "name": "Coq au Vin III",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 127,
+        "name": "Gboma Dessi and Akoume (Togolese Spinach Stew with Corn Swallow)",
+        "tags": [
+            "/wiki/Category:African_recipes",
+            "African",
+            "Bread",
+            "Chicken",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 129,
+        "name": "Ghormeh Sabzi (Iranian Herb Stew)",
+        "tags": [
+            "/wiki/Category:Iranian_recipes",
+            "Beef",
+            "Bread",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 133,
+        "name": "Gingerbread Cookies Frosted with Royal Icing",
+        "tags": [
+            "/wiki/Category:Cookie_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 155,
+        "name": "Katchi Biryani",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 160,
+        "name": "Khanom Tian (Thai Coconut Rice Dumplings)",
+        "tags": [
+            "/wiki/Category:Dumpling_recipes",
+            "Asian",
+            "Rice",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 215,
+        "name": "Pain au Levain Naturel",
+        "tags": [
+            "/wiki/Category:Bread_recipes",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 241,
+        "name": "Saffron Rice and Beans",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Gluten-Free",
+            "Potatoes",
+            "Rice",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 257,
+        "name": "Spaghetti and Meatballs",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Bread",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 289,
+        "name": "Tres Leches Cake I",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 6,
+        "name": "Alsatian Fish Stew (Matelote de poissons d'Alsace)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Fish",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 78,
+        "name": "Chipotle Chili",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 104,
+        "name": "East African Beef Pilaf",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 134,
+        "name": "Gingerbread Pancakes I",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 197,
+        "name": "Murghi Korma (Chicken Korma)",
+        "tags": [
+            "/wiki/Category:Indian_recipes",
+            "Asian",
+            "Bread",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 24,
+        "name": "Banana Nutmeg Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 38,
+        "name": "Benechin Kunkujang (Gambian Seasoned Rice and Lamb)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 66,
+        "name": "Chicken Quesadilla",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 91,
+        "name": "Corn Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 167,
+        "name": "Lemon Blueberry Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 214,
+        "name": "Orange Cardamom Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 225,
+        "name": "Potato and Chicken Stew (Ajiaco)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Soup",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 237,
+        "name": "Riz Gras (West African Fried Rice)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 244,
+        "name": "San Francisco Sourdough Bread",
+        "tags": [
+            "Bread",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 80,
+        "name": "Chocolate Cheesecake",
+        "tags": [
+            "/wiki/Category:Cheesecake_recipes",
+            "Dessert",
+            "Eggs",
+            "Meat",
+            "Pork"
+        ]
+    },
+    {
+        "recipe_id": 95,
+        "name": "Creme Brulee Cheesecake",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Dessert",
+            "Eggs",
+            "Gluten-Free",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 110,
+        "name": "Egusi Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 122,
+        "name": "Galician Garbanzo Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Potatoes",
+            "Soup",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 296,
+        "name": "Vancouver Cheesecake",
+        "tags": [
+            "/wiki/Category:Cheesecake_recipes",
+            "Dessert",
+            "Eggs",
+            "Gluten-Free",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 2,
+        "name": "Abula (Nigerian Three Stews)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 22,
+        "name": "Banana and Pear Cake (Vegan)",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Rice",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 23,
+        "name": "Banana Chocolate Bread Pudding",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Bread",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 52,
+        "name": "California Curry Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 116,
+        "name": "Flammekueche (Bacon and Onion Flatbread)",
+        "tags": [
+            "/wiki/Category:Pastry_recipes",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 131,
+        "name": "Ginger Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 140,
+        "name": "G\u00f6zleme (Turkish Flatbread)",
+        "tags": [
+            "/wiki/Category:Turkish_recipes",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 164,
+        "name": "Lancashire Corned Beef Hash",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 168,
+        "name": "Lemon Cake with Lemon Glaze",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 170,
+        "name": "Lemon Poppy Seed Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 190,
+        "name": "Miyan Gyada (Nigerian Groundnut Soup) II",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 199,
+        "name": "Nasi Goreng (Indonesian Fried Rice)",
+        "tags": [
+            "/wiki/Category:Indonesian_recipes",
+            "Beef",
+            "Chicken",
+            "Eggs",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 210,
+        "name": "Nigerian Vegetable Fried Rice",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 231,
+        "name": "Rhubarb and Custard Bread Pudding",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Bread",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 232,
+        "name": "Rice Cooked in Tomato Meat Sauce (Ross il-Forn)",
+        "tags": [
+            "/wiki/Category:Maltese_recipes",
+            "Beef",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 233,
+        "name": "Rice Tamale (Pastel de Arroz)",
+        "tags": [
+            "/wiki/Category:Colombian_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 263,
+        "name": "Spicy Miso Udon",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pasta",
+            "Pork",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 279,
+        "name": "Tchakpolo (Togolese Meat and Vegetable Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 8,
+        "name": "Apple Crumb Cake",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Dessert",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 37,
+        "name": "Benachin (Gambian Rice with Meat and Vegetables)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 65,
+        "name": "Chicken Parmigiana",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 70,
+        "name": "Chicken Tagine with Lemon and Olives",
+        "tags": [
+            "/wiki/Category:Poultry_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 79,
+        "name": "Chocolate Cake with Coconut Topping (Vegan)",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 82,
+        "name": "Chocolate Chip Pancakes II",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 85,
+        "name": "Cioppino (Italian Seafood Stew)",
+        "tags": [
+            "/wiki/Category:Seafood_recipes",
+            "Bread",
+            "Fish",
+            "Italian",
+            "Seafood",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 128,
+        "name": "General Tso's Chicken",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 130,
+        "name": "Giant Spaghetti-Stuffed Meatball",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Bread",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 135,
+        "name": "Goat Cheese Cakes",
+        "tags": [
+            "/wiki/Category:Cheese_recipes",
+            "Bread",
+            "Dessert",
+            "Eggs",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 137,
+        "name": "Green Turtle Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Eggs",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 198,
+        "name": "Muskrat Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 207,
+        "name": "Nigerian Coconut Fried Rice with Shrimp and Liver",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 208,
+        "name": "Nigerian Jollof Rice",
+        "tags": [
+            "African",
+            "Beef",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 234,
+        "name": "Rigatoni Pasta with Ricotta in Tomato Cream Sauce",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Italian",
+            "Pasta",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 247,
+        "name": "Sauce Gombo (Okra Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Seafood",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 294,
+        "name": "Ukrainian Cabbage Soup (Kapusniak)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 5,
+        "name": "Almond Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 33,
+        "name": "Beef Curry",
+        "tags": [
+            "/wiki/Category:Curry_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 88,
+        "name": "Coq au Vin II",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 102,
+        "name": "Dorowot Fitfit (Ethiopian Chicken Stew Salad)",
+        "tags": [
+            "/wiki/Category:Ethiopian_recipes",
+            "African",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Salad",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 111,
+        "name": "Egyptian Lentil Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Soup",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 150,
+        "name": "Italian-American Spaghetti alla Puttanesca",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "American",
+            "Gluten-Free",
+            "Italian",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 156,
+        "name": "Kawlata (Maltese Vegetable and Pork Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 171,
+        "name": "Lemon Pound Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 192,
+        "name": "Moambe (Palm Nut Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 204,
+        "name": "Nigerian Carrot Stew",
+        "tags": [
+            "/wiki/Category:Nigerian_recipes",
+            "African",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 209,
+        "name": "Nigerian Sesame Chicken",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "African",
+            "Chicken",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 218,
+        "name": "Panamanian Ropa Vieja",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 272,
+        "name": "Sylheti Beef Curry",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 290,
+        "name": "Tuna Fried Rice",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Eggs",
+            "Fish",
+            "Gluten-Free",
+            "Rice",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 11,
+        "name": "Arancini (Italian Fried Rice Balls)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "Bread",
+            "Eggs",
+            "Italian",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 36,
+        "name": "Beef Yakiniku Pizza",
+        "tags": [
+            "/wiki/Category:Pizza_recipes",
+            "Beef",
+            "Italian",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 41,
+        "name": "Bint as-Sa\u1e25n (Yemenite Layered Pastry)",
+        "tags": [
+            "/w/index.php?title=Category:Flatbread_recipes&action=edit&redlink=1",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 50,
+        "name": "Buttermilk Fried Chicken with Pan Gravy",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 56,
+        "name": "Chereh Tamba (Gambian Groundnut Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "African",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 74,
+        "name": "Chicken with Orange, Spinach and Cherry Tomatoes",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 84,
+        "name": "Christmas Cake",
+        "tags": [
+            "/wiki/Category:Dessert_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 97,
+        "name": "Curry Chicken I",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 99,
+        "name": "Diri Na Njar (Chadian Spiced Rice with Vegetables)",
+        "tags": [
+            "/wiki/Category:Rice_recipes",
+            "African",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 125,
+        "name": "Gambian Superkanja Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Eggs",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 144,
+        "name": "Holiday Cake (Spiced Fruitcake Loaf)",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 145,
+        "name": "Honey Lime Pork Loin",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Chicken",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 157,
+        "name": "Keralan Vegetable Stew",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Potatoes",
+            "Rice",
+            "Stew",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 176,
+        "name": "Maff\u00e9 (West African Peanut Stew) I",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 191,
+        "name": "Miyan Taushe (Nigerian Pumpkin Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 194,
+        "name": "Muceere (Ugandan Pumpkin Stew)",
+        "tags": [
+            "/wiki/Category:Ugandan_recipes",
+            "Gluten-Free",
+            "Stew",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 261,
+        "name": "Spaghetti with Clams in White Wine Sauce",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Gluten-Free",
+            "Italian",
+            "Pasta",
+            "Seafood",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 270,
+        "name": "Sweet and Sour Chinese Pork",
+        "tags": [
+            "/wiki/Category:Pork_recipes",
+            "Asian",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 277,
+        "name": "Tagliatelle Bake",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Beef",
+            "Casserole",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 3,
+        "name": "Algerian Couscous",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 43,
+        "name": "Black Bean Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Gluten-Free",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 49,
+        "name": "Burmese Pork Curry",
+        "tags": [
+            "/wiki/Category:Curry_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Seafood",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 90,
+        "name": "Corn and Shrimp Chowder",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Seafood",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 96,
+        "name": "Cullen Skink (Haddock and Potato Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Fish",
+            "Gluten-Free",
+            "Potatoes",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 98,
+        "name": "Dhokla (Steamed Black Gram Bread)",
+        "tags": [
+            "/wiki/Category:Indian_recipes",
+            "Asian",
+            "Gluten-Free",
+            "Rice",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 108,
+        "name": "Efo Iyana Ipaja Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 112,
+        "name": "Entula (Ugandan Eggplant Stew)",
+        "tags": [
+            "/wiki/Category:Ugandan_recipes",
+            "Eggs",
+            "Gluten-Free",
+            "Potatoes",
+            "Stew",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 121,
+        "name": "Frittaten Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Eggs",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 124,
+        "name": "Gambian Mbamba Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Eggs",
+            "Fish",
+            "Gluten-Free",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 138,
+        "name": "Groundnut Butter Soup",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Beef",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 148,
+        "name": "Ifokore (Nigerian Water Yam Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Seafood",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 153,
+        "name": "Kanda (Peanut Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 154,
+        "name": "Karnataka-Style Rasam (Tamarind and Tomato Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Gluten-Free",
+            "Soup",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 165,
+        "name": "Lane Cake",
+        "tags": [
+            "/wiki/Category:Cake_recipes",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 172,
+        "name": "Light Fluffy Pancakes",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 174,
+        "name": "M'batata (Sweet Potato And Peanut Soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 195,
+        "name": "Mung Bean and Brown Rice Curry",
+        "tags": [
+            "/wiki/Category:Curry_recipes",
+            "Gluten-Free",
+            "Rice",
+            "Stew",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 203,
+        "name": "Nigerian Beef Marcaroni",
+        "tags": [
+            "/wiki/Category:Pasta_recipes",
+            "African",
+            "Beef",
+            "Italian",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 222,
+        "name": "Pork Gyoza",
+        "tags": [
+            "/wiki/Category:Appetizer_recipes",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 246,
+        "name": "Sauce Feuilles (Greens Stew)",
+        "tags": [
+            "/wiki/Category:Stew_recipes",
+            "Beef",
+            "Bread",
+            "Chicken",
+            "Fish",
+            "Gluten-Free",
+            "Meat",
+            "Seafood",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 273,
+        "name": "Sylheti Biryani",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 286,
+        "name": "Tokyo Pancake (Khanom Tokyo)",
+        "tags": [
+            "/wiki/Category:Thai_recipes",
+            "Asian",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Meat",
+            "Pork",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 4,
+        "name": "Alicha Wot (Mild Ethiopian Stew)",
+        "tags": [
+            "/wiki/Category:Main_course_recipes",
+            "African",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 12,
+        "name": "Arisa (Malaysian Blended Chicken)",
+        "tags": [
+            "/wiki/Category:Meat_recipes",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 28,
+        "name": "Bean Soup (Vegetarian)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Pasta",
+            "Soup",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 30,
+        "name": "Beef and Guinness Casserole",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Bread",
+            "Casserole",
+            "Meat",
+            "Potatoes",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 46,
+        "name": "Boule-Di (Senegalese Fish and Rice)",
+        "tags": [
+            "/wiki/Category:Fish_recipes",
+            "Fish",
+            "Gluten-Free",
+            "Rice",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 64,
+        "name": "Chicken Parmesan",
+        "tags": [
+            "/wiki/Category:Chicken_recipes",
+            "Bread",
+            "Chicken",
+            "Eggs",
+            "Meat",
+            "Pasta",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 81,
+        "name": "Chocolate Chip Pancakes I",
+        "tags": [
+            "/wiki/Category:Pancake_recipes",
+            "Breakfast",
+            "Dessert",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 123,
+        "name": "Gambian Caldo (Seafood soup)",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "African",
+            "Beef",
+            "Chicken",
+            "Gluten-Free",
+            "Meat",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 126,
+        "name": "Gazpacho",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Bread",
+            "Soup",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 136,
+        "name": "Gorgonzola Stuffed Chateaubriand",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Gluten-Free",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 141,
+        "name": "Hamburger Deluxe",
+        "tags": [
+            "/wiki/Category:Beef_recipes",
+            "Beef",
+            "Bread",
+            "Eggs",
+            "Gluten-Free",
+            "Meat",
+            "Pork",
+            "Sandwich",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 147,
+        "name": "Ibirayi n'Ibishyimbo (Rwandan Bean Soup with Fish)",
+        "tags": [
+            "/wiki/Category:African_recipes",
+            "African",
+            "Fish",
+            "Gluten-Free",
+            "Potatoes",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 152,
+        "name": "Ka'ak (Savory Ring-Shaped Biscuit)",
+        "tags": [
+            "/wiki/Category:Bread_recipes",
+            "Eggs",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 158,
+        "name": "Key Wat (Ethiopian Red Stew)",
+        "tags": [
+            "/wiki/Category:Ethiopian_recipes",
+            "African",
+            "Beef",
+            "Gluten-Free",
+            "Meat",
+            "Stew",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 159,
+        "name": "Khaman Dhokla (Steamed Gram Bread)",
+        "tags": [
+            "/wiki/Category:Snack_recipes",
+            "Vegan",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 162,
+        "name": "Koshari (Egyptian Rice with Pasta and Lentils)",
+        "tags": [
+            "/wiki/Category:Egyptian_recipes",
+            "Italian",
+            "Pasta",
+            "Rice",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 177,
+        "name": "Manhattan Clam Chowder II",
+        "tags": [
+            "/wiki/Category:Soup_recipes",
+            "Meat",
+            "Pork",
+            "Potatoes",
+            "Seafood",
+            "Soup",
+            "Vegetables"
+        ]
+    },
+    {
+        "recipe_id": 185,
+        "name": "Mesir Wat (Spicy Ethiopian Lentil Stew)",
+        "tags": [
+            "/wiki/Category:Main_course_recipes",
+            "African",
+            "Gluten-Free",
+            "Stew",
+            "Vegan",
+            "Vegetables",
+            "Vegetarian"
+        ]
+    },
+    {
+        "recipe_id": 189,
+        "name": "Mince Pie Tartlets with Pork",
+        "tags": [
+            "/wiki/Category:Pie_and_tart_recipes",
+            "Dessert",
+            "Gluten-Free",
+            "Meat",
+            "Pork"
+        ]
+    }
+]

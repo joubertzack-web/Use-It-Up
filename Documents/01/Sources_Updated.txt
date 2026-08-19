@@ -1,0 +1,46 @@
+USE IT UP — MVP SOURCE DOCUMENTATION (UPDATED)
+
+## Source Actually Used
+
+* **Dataset name**: Wikibooks Cookbook Dataset
+* **Original publisher**: Wikibooks (English)
+* **Dataset acquisition method**: Downloaded from Hugging Face (gossminn/wikibooks-cookbook)
+* **Dataset file name**: recipes_parsed.json
+* **Date acquired**: 2026-08-19
+* **Original record count**: 3,895
+* **Usable record count**: 3,717
+
+## MVP Selection
+
+* **Source candidates**: 3,717 usable recipes
+* **Selected MVP recipes**: 300
+* **Selection artifact**: wikibooks_selection_manifest.json
+* **Selection report**: Use It Up_300_Recipe_Selection_Report.md
+
+## Provenance
+
+Each selected recipe is traceable via its `source_id` (Wikibooks filename) and its original source URL (Wikibooks Cookbook page). Provenance is preserved in the canonical working dataset.
+
+## Data Handling
+
+* **Fidelity**: Raw source data (ingredients and instructions) was extracted without alteration of meaning.
+* **Qualitative Preservation**: Qualitative measurements (e.g., "to taste", "pinch") are preserved as strings.
+* **No Fabrication**: No numeric values or units were invented during normalization.
+* **Separation**: Recipe quantities remain distinct from pantry availability logic.
+
+## Current Status
+
+**Recipe corpus acquisition**: COMPLETE
+**Recipe selection**: COMPLETE
+**Normalization/validation**: COMPLETE (Step 20)
+**Room seed import**: NOT YET AUTHORIZED
+
+## Planned / Not Yet Used Sources (Historical Reference)
+
+The following sources were identified in the original strategy but have not yet contributed to the 300-recipe MVP corpus:
+
+* Library of Congress / Public-Domain Cookbooks
+* JSON Cookbook (micahcochran)
+* RecipeDB (Research candidate)
+
+These remain available for future expansion beyond the initial 300.

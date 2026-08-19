@@ -1,0 +1,262 @@
+Purpose
+-------
+This document records the current top five recipe-source candidates for
+Use It Up. It is a Phase 0 research document, not a final licensing approval.
+
+IMPORTANT PRODUCT PRINCIPLE
+---------------------------
+Use It Up is NOT exclusively a Southern/Midwestern/cowboy-ranch recipe app.
+
+Those preferences are useful as an initial real-world test case, but the
+commercial product must support broad culinary variety. The source strategy
+therefore needs to balance:
+
+- Strong initial American home-cooking coverage
+- Broad cuisine variety
+- Open/reusable content
+- Clear licensing
+- Structured recipe data where possible
+- Long-term commercial viability
+- Attribution and provenance tracking
+
+
+TOP 5 CANDIDATES
+================
+
+1. WIKIBOOKS COOKBOOK
+---------------------
+Role:
+Primary open recipe-source candidate.
+
+Why it is strong:
+- Several thousand user-contributed recipes.
+- Broad coverage across cultures and cuisines.
+- Includes Southern U.S., Midwestern/North American, Texas, Cajun,
+  and other regional material.
+- Recipe content is available under Creative Commons
+  Attribution-ShareAlike, subject to the applicable page/license terms.
+- The project is actively maintained.
+
+Relevant examples:
+- Biscuits and Gravy
+- Chicken-Fried Steak
+- Country Fried Steak and Gravy
+- Fried Chicken
+- Skillet Cornbread
+- Southern Cornbread
+- Grits
+- Collard Greens
+- Fried Okra
+- Chicken Pot Pie
+
+Primary reference:
+https://en.wikibooks.org/wiki/Cookbook:Recipes
+
+License reference:
+https://en.wikibooks.org/wiki/Cookbook:Southern_Cuisine
+
+Status:
+HIGH PRIORITY — FURTHER LICENSE/INGESTION REVIEW REQUIRED
+
+
+2. LIBRARY OF CONGRESS / PUBLIC-DOMAIN COOKBOOKS
+------------------------------------------------
+Role:
+Historical and heritage recipe source.
+
+Why it is strong:
+- Contains digitized historical American cookbooks.
+- Public-domain works can provide legally reusable historical recipes.
+- Particularly valuable for traditional Southern and regional American
+  cooking.
+- Provides authoritative provenance and bibliographic information.
+
+Example:
+The Southern Cookbook; A Manual of Cooking and List of Menus (1912).
+
+The Library of Congress identifies the books in the referenced collection
+as public domain and free to use and reuse.
+
+Primary reference:
+https://www.loc.gov/item/12026875/
+
+Status:
+HIGH PRIORITY — STRONG SUPPLEMENTARY SOURCE
+
+
+3. JSON COOKBOOK
+----------------
+Repository:
+micahcochran/json-cookbook
+
+Role:
+Structured/open recipe dataset candidate.
+
+Why it is interesting:
+- Recipes are provided in JSON.
+- Uses the schema.org/Recipe structure.
+- The project documents source licensing.
+- Its included recipes come from sources identified as Creative Commons
+  or Public Domain.
+- Individual recipe license metadata is preserved.
+
+Repository:
+https://github.com/micahcochran/json-cookbook
+
+Status:
+HIGH PRIORITY FOR TECHNICAL EVALUATION
+
+
+4. RECIPEDB
+-----------
+Role:
+Large structured recipe-database candidate.
+
+Why it is interesting:
+- Large structured recipe collection.
+- Provides downloadable data.
+- Useful as a possible research/benchmark source.
+- Could be valuable for ingredient normalization, recipe matching,
+  and recommendation-system development.
+
+CRITICAL LICENSE NOTE:
+RecipeDB data is distributed under CC BY-NC-SA 3.0.
+
+That NonCommercial restriction makes it unsuitable to automatically
+treat RecipeDB as a commercial production data source.
+
+It may still be useful for research, prototyping, benchmarking, or
+other uses permitted by its license, but commercial incorporation
+requires separate legal review/permission.
+
+Primary reference:
+https://cosylab.iiitd.edu.in/recipedb/FAQ
+
+Status:
+RESEARCH / BENCHMARK CANDIDATE — COMMERCIAL USE RESTRICTED
+
+
+5. USER / FAMILY-CREATED RECIPES
+-------------------------------
+Role:
+First-class native recipe source.
+
+Why it is important:
+- Users can enter their own recipes.
+- Family recipes can be preserved digitally.
+- No dependence on external recipe databases for personal recipes.
+- Provides a foundation for community/user-generated content.
+- Can eventually become a major source of recipe variety.
+
+Examples:
+- Grandma's recipes
+- Family recipes
+- Personal recipes
+- User-created variations
+- Community-contributed recipes
+
+Important:
+User-submitted content must have explicit ownership/usage terms in the
+application's Privacy & Data Handling and Terms/Legal documentation.
+
+Status:
+CORE PRODUCT SOURCE
+
+
+SECONDARY CANDIDATE / WATCH LIST
+================================
+
+RECIPE COMMONS
+-------------
+Recipe Commons is an emerging open initiative built around an open
+recipe format. It describes recipes as portable Markdown files with
+per-recipe Creative Commons licensing and states that the project itself
+is dedicated to the public domain under CC0 1.0.
+
+It is currently described as Early Alpha, so it should be monitored rather
+than automatically elevated into the initial five-source strategy.
+
+Reference:
+https://recipecommons.org/
+
+Status:
+WATCH / FUTURE EVALUATION
+
+
+SOURCE STRATEGY PRINCIPLES
+==========================
+
+1. Publicly viewable does NOT automatically mean reusable.
+
+2. Every externally sourced recipe must have a documented legal basis
+   before being incorporated into the product.
+
+3. Preserve provenance:
+   - Original source
+   - Author/creator where available
+   - License
+   - License URL
+   - Source URL
+   - Import date
+   - Modifications, if applicable
+
+4. Do not assume that an entire recipe website/database can be copied
+   simply because individual recipes are publicly accessible.
+
+5. Commercial viability matters from the beginning.
+
+6. NonCommercial licenses must be clearly separated from production
+   sources that may eventually support a paid/commercial product.
+
+7. The application should be designed to support multiple recipe sources,
+   not become dependent on a single external provider.
+
+8. Source diversity is a product requirement:
+   Southern, Midwestern, American comfort food, international cuisines,
+   baking, vegetarian, healthy meals, desserts, quick meals, etc.
+
+9. Initial testing may emphasize Southern/Midwestern home cooking, but
+   the production recipe ecosystem must not be limited to those cuisines.
+
+
+CURRENT RECOMMENDATION
+=====================
+
+Primary open source:
+    Wikibooks Cookbook
+
+Historical/public domain:
+    Library of Congress collections
+
+Structured open dataset:
+    JSON Cookbook
+
+Research/benchmark only pending licensing:
+    RecipeDB
+
+Native user content:
+    User/family-created recipes
+
+Watch list:
+    Recipe Commons
+
+
+PHASE 0.2 STATUS
+================
+
+Status: IN PROGRESS
+
+This document establishes the initial source candidates.
+
+Phase 0.2 is NOT complete until the project documents:
+
+- Exact license requirements for each production source
+- Commercial-use compatibility
+- Attribution requirements
+- Source ingestion method
+- Recipe normalization strategy
+- Update/synchronization strategy
+- Provenance requirements
+- Removal/takedown handling
+- Whether full recipe content or structured data will be stored
+- Legal review requirements before public/commercial release
