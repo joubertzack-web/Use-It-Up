@@ -1,6 +1,6 @@
 # Use It Up — Polish & Acceptance Checklist
 
-**Date:** 2026-08-19  
+**Date:**  
 **Version:**  
 **Build:**  
 **Device:**  
@@ -11,8 +11,8 @@
 Check each item against the actual running application.
 
 - `[x]` = PASS
-- `[ ]` = NOT YET CHECKED
-- `FAIL` = Record the failure in the Defect Log
+- `[ ]` = FAIL / NOT ACCEPTED
+- Record failures in the Defect Log.
 
 ---
 
@@ -23,7 +23,7 @@ Check each item against the actual running application.
 - [ ] Onboarding is easy to understand
 - [ ] Each onboarding step has one clear purpose
 - [ ] Pantry is explained clearly
-- [ ] Use It Up are explained clearly
+- [ ] Leftovers are explained clearly
 - [ ] Grocery is explained clearly
 - [ ] Recipe discovery/recommendations are explained clearly
 - [ ] User knows what to do after onboarding
@@ -33,6 +33,7 @@ Check each item against the actual running application.
 **Result:** PASS / FAIL
 
 **Notes:**
+
 
 ---
 
@@ -52,6 +53,7 @@ Check each item against the actual running application.
 **Result:** PASS / FAIL
 
 **Notes:**
+
 
 ---
 
@@ -73,11 +75,10 @@ Check each item against the actual running application.
 
 **Notes:**
 
+
 ---
 
 # 4. Recipe Detail — Overall Structure
-
-Test multiple real recipes.
 
 **Recipes Tested:**
 
@@ -104,6 +105,7 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
 # 5. Recipe Detail — Readability
@@ -126,68 +128,10 @@ Test multiple real recipes.
 
 **Notes:**
 
----
-
-# 6. Recipe Detail — Spacing
-
-- [ ] Header spacing feels intentional
-- [ ] Hero spacing feels intentional
-- [ ] Prep List spacing feels intentional
-- [ ] Ingredient rows are not excessively spread out
-- [ ] Ingredient rows are not cramped
-- [ ] Method steps are not excessively spread out
-- [ ] Method steps are not cramped
-- [ ] Card-to-card spacing is consistent
-- [ ] Short recipes do not create excessive empty space
-- [ ] Long recipes do not create unnecessary empty space
-- [ ] No large unexplained blank regions exist
-- [ ] Content remains naturally sized
-
-**Result:** PASS / FAIL
-
-**Notes:**
 
 ---
 
-# 7. Recipe Detail — Content Fidelity
-
-- [ ] Recipe title matches source
-- [ ] Ingredients match source
-- [ ] Quantities match source
-- [ ] `to taste` remains preserved where applicable
-- [ ] `pinch` remains preserved where applicable
-- [ ] `as needed` remains preserved where applicable
-- [ ] Instructions match source
-- [ ] Tags are clean
-- [ ] `_recipe` does not appear in user-facing tags
-- [ ] `_recipes` does not appear in user-facing tags
-- [ ] Provenance remains correct
-
-**Result:** PASS / FAIL
-
-**Notes:**
-
----
-
-# 8. Recipe Detail — Interaction
-
-- [ ] Back navigation works
-- [ ] Favorite works
-- [ ] Favorite state persists
-- [ ] Grocery action is understandable
-- [ ] Grocery action works
-- [ ] Buttons clearly communicate their purpose
-- [ ] Touch targets feel comfortable
-- [ ] Scrolling feels natural
-- [ ] Interactive feedback feels intentional
-
-**Result:** PASS / FAIL
-
-**Notes:**
-
----
-
-# 9. Grocery
+# 6. Grocery
 
 - [ ] Grocery screen purpose is immediately obvious
 - [ ] Grocery items are readable
@@ -199,17 +143,22 @@ Test multiple real recipes.
 - [ ] Stock does not create duplicates
 - [ ] Remove does not modify Pantry
 - [ ] Correct item is affected
-- [ ] Other grocery items remain unchanged
+- [ ] Other Grocery items remain unchanged
 - [ ] Controls do not require guessing
 - [ ] Empty Grocery state is understandable
 
+**Result:** PASS / FAIL
+
+**Notes:**
+
+
 ## Critical Stock Test
 
-**Item Tested:**
+**Item Tested:**  
 
-**Expected Result:**
+**Expected Result:**  
 
-**Actual Result:**
+**Actual Result:**  
 
 - [ ] Item entered Pantry
 - [ ] Item disappeared from Grocery
@@ -220,9 +169,10 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
-# 10. Pantry
+# 7. Pantry
 
 - [ ] Pantry purpose is obvious
 - [ ] Add item works
@@ -238,25 +188,27 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
-# 11. Use It Up
+# 8. Leftovers
 
-- [ ] Use It Up purpose is obvious
+- [ ] Leftovers purpose is obvious
 - [ ] Add leftover works
 - [ ] Edit leftover works
 - [ ] Remove leftover works
-- [ ] Use It Up participate in recipe matching
-- [ ] Empty Use It Up state is understandable
-- [ ] Use It Up are visually distinct from Pantry inventory
+- [ ] Leftovers participate in recipe matching
+- [ ] Empty Leftovers state is understandable
+- [ ] Leftovers are visually distinct from Pantry inventory
 
 **Result:** PASS / FAIL
 
 **Notes:**
 
+
 ---
 
-# 12. Saved
+# 9. Saved
 
 - [ ] Saved screen purpose is obvious
 - [ ] Favorited recipe appears
@@ -268,9 +220,10 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
-# 13. Navigation
+# 10. Navigation
 
 - [ ] Home navigation works
 - [ ] Discover navigation works
@@ -285,9 +238,10 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
-# 14. Responsive Layout
+# 11. Responsive Layout
 
 **Devices Tested:**
 
@@ -310,9 +264,10 @@ Test multiple real recipes.
 
 **Notes:**
 
+
 ---
 
-# 15. Accessibility
+# 12. Accessibility
 
 - [ ] Text contrast is sufficient
 - [ ] Buttons have understandable labels
@@ -326,71 +281,10 @@ Test multiple real recipes.
 
 **Notes:**
 
----
-
-# 16. Ads & Monetization
-
-- [ ] Ads appear only where intended
-- [ ] Ads do not obscure content
-- [ ] Ads do not interfere with cooking
-- [ ] Ads do not cause accidental taps
-- [ ] Disable Advertisements works
-- [ ] Ad behavior feels acceptable
-- [ ] Monetization does not damage the primary user experience
-
-**Result:** PASS / FAIL
-
-**Notes:**
 
 ---
 
-# 17. Overall Product Feel
-
-- [ ] Use It Up feels cohesive
-- [ ] Use It Up feels like a real cooking application
-- [ ] The visual identity is consistent
-- [ ] The app feels cozy without becoming cluttered
-- [ ] Visual hierarchy is obvious
-- [ ] Actions are understandable without guessing
-- [ ] Scrolling and interactions feel intentional
-- [ ] The app does not feel technically assembled or unfinished
-- [ ] I would actually use this application to plan/cook a meal
-- [ ] A new user could use it without me explaining the product
-
-**Result:** PASS / FAIL
-
-**Notes:**
-
----
-
-# 18. Complete User Journey
-
-Perform this without referring to documentation or asking Gemini for guidance.
-
-- [ ] Start as a new user
-- [ ] Complete onboarding
-- [ ] Reach Home
-- [ ] Discover a recipe
-- [ ] Open the recipe
-- [ ] Understand the ingredients
-- [ ] Understand the method
-- [ ] Identify missing ingredients
-- [ ] Add missing ingredients to Grocery
-- [ ] Open Grocery
-- [ ] Understand Stock
-- [ ] Stock an ingredient
-- [ ] Confirm it entered Pantry
-- [ ] Confirm it disappeared from Grocery
-- [ ] Return to recipe discovery
-- [ ] Confirm inventory influences recommendations
-
-**Complete Journey Result:** PASS / FAIL
-
-**Notes:**
-
----
-
-# 19. Defect Log
+# 13. Defect Log
 
 | ID | Screen | Severity | Defect | Evidence | Required Fix |
 |---|---|---|---|---|---|
@@ -402,10 +296,12 @@ Perform this without referring to documentation or asking Gemini for guidance.
 | 006 | | P0/P1/P2 | | | |
 | 007 | | P0/P1/P2 | | | |
 | 008 | | P0/P1/P2 | | | |
+| 009 | | P0/P1/P2 | | | |
+| 010 | | P0/P1/P2 | | | |
 
 ---
 
-# 20. Final Acceptance
+# 14. Final Acceptance
 
 ## Critical Defects
 
@@ -424,12 +320,11 @@ Perform this without referring to documentation or asking Gemini for guidance.
 - [ ] TARGETED FIXES REQUIRED
 - [ ] REJECTED
 
-**Reviewer:**
+**Reviewer:**  
 
-**Date:**
+**Date:**  
 
-**Build:**
+**Build:**  
 
 ## Final Notes
 
-```text

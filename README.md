@@ -15,3 +15,9 @@ Your companion for mindful cooking. Discover recipes based on what you already h
 - Room Persistence
 - Google Mobile Ads SDK (AdMob)
 - Navigation 3
+
+## Privacy Policy
+**Use It Up** is a local-first application. 
+- **Data Collection**: No personal data is collected or transmitted to external servers. All pantry, leftover, and grocery data is stored locally on your device.
+- **Ads**: We use Google AdMob to display advertisements. AdMob may collect and use advertising identifiers and other data as described in [Google's Privacy Policy](https://policies.google.com/privacy).
+- **Permissions**: The app may request camera or location permissions only for relevant features (e.g., adding personal recipes with photos). These are handled strictly on-device.
