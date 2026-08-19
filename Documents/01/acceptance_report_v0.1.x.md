@@ -154,8 +154,3 @@ Check each item against the actual running application.
 
 **Reviewer:** Zack
 **Date:** 2026-08-19
-
-## Summary of Required Next Steps
-1. **Canonical Ingredient Identity**: Separate identity from quantity/source wording to fix matching across Pantry, Grocery, and Leftovers.
-2. **First-use Product Flow**: Route user to Pantry after onboarding to drive immediate value.
-3. **Data Normalization**: Clean up ingredient string formatting at the data ingestion layer.
