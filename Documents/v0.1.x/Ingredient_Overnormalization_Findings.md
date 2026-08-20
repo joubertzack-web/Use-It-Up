@@ -1,7 +1,5 @@
 # Ingredient Over-normalization Findings
 
-Verified that material cooking distinctions (Variety, Cut, Form) are preserved.
-
 ### Potato Variety Preservation
 - Potato
 - Red Potato
