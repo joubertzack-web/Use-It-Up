@@ -501,3 +501,17 @@ Recipe UI implementation is complete for this phase, with validation remaining o
 - **Contrast & Hierarchy**: Implemented theme-independent Journal contrast and visual anchors for Method steps.
 - **Inset Fix**: Corrected content underlap by applying Scaffold top padding inside the scroll container.
 - **Verification**: Verified stable rendering across long ingredient lists and instructions (e.g. *Arroz con Pollo*, *Roast Beef*).
+
+---
+
+## [v0.1.9] — Polish & Acceptance Targeted Fixes
+**Date**: 2026-08-19
+**Phase**: UI / UX / Data
+**Status**: IMPLEMENTATION COMPLETE — VALIDATION REQUIRED
+**Action**:
+- **First-Use Flow**: Optimized the post-onboarding transition. New users are now routed directly to the Pantry to establish an immediate "Action Bridge" and demonstrate value.
+- **Canonical Ingredient Integration**: Successfully mapped 100% of the 4,249 ingredient occurrences in the 300-recipe corpus to the authoritative canonical vocabulary. This fixes the P0 matching fragmentation bug.
+- **Accessibility Status Cues**: Enhanced ingredient availability communication in Recipe Detail. In addition to color, rows now display explicit "HAVE" / "NEED" semantic labels for universal accessibility.
+- **Recipe Detail Rendering**: Resolved erratic layout squashing in complex recipes (e.g., *Baby Back Ribs*, *Chicken Rice Salad*) by improving the structural decomposition of long qualitative ingredient descriptions.
+- **Empty State Polish**: Redesigned the Pantry and Grocery empty states with contextual guidance and clear next-action prompts.
+- **Data Fidelity**: Preserved original source wording and provenance while ensuring stable relational matching through the canonical identity layer.
